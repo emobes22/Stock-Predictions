@@ -1,0 +1,3013 @@
+Date,Close,StockTicker,Sector
+1/2/2019,93.339996,WMT,Consumer Staples
+1/3/2019,92.860001,WMT,Consumer Staples
+1/4/2019,93.440002,WMT,Consumer Staples
+1/7/2019,94.540001,WMT,Consumer Staples
+1/8/2019,95.199997,WMT,Consumer Staples
+1/9/2019,94.889999,WMT,Consumer Staples
+1/10/2019,94.959999,WMT,Consumer Staples
+1/11/2019,94.839996,WMT,Consumer Staples
+1/14/2019,94.949997,WMT,Consumer Staples
+1/15/2019,96.25,WMT,Consumer Staples
+1/16/2019,96.349998,WMT,Consumer Staples
+1/17/2019,96.739998,WMT,Consumer Staples
+1/18/2019,97.730003,WMT,Consumer Staples
+1/22/2019,97.489998,WMT,Consumer Staples
+1/23/2019,98.709999,WMT,Consumer Staples
+1/24/2019,98.360001,WMT,Consumer Staples
+1/25/2019,96.940002,WMT,Consumer Staples
+1/28/2019,97.059998,WMT,Consumer Staples
+1/29/2019,96.709999,WMT,Consumer Staples
+1/30/2019,94.800003,WMT,Consumer Staples
+1/31/2019,95.830002,WMT,Consumer Staples
+2/1/2019,93.860001,WMT,Consumer Staples
+2/4/2019,94.769997,WMT,Consumer Staples
+2/5/2019,95.599998,WMT,Consumer Staples
+2/6/2019,95.639999,WMT,Consumer Staples
+2/7/2019,96.730003,WMT,Consumer Staples
+2/8/2019,95.580002,WMT,Consumer Staples
+2/11/2019,96.199997,WMT,Consumer Staples
+2/12/2019,96.970001,WMT,Consumer Staples
+2/13/2019,97.940002,WMT,Consumer Staples
+2/14/2019,98.519997,WMT,Consumer Staples
+2/15/2019,99.989998,WMT,Consumer Staples
+2/19/2019,102.199997,WMT,Consumer Staples
+2/20/2019,99.879997,WMT,Consumer Staples
+2/21/2019,99.389999,WMT,Consumer Staples
+2/22/2019,99.550003,WMT,Consumer Staples
+2/25/2019,99.120003,WMT,Consumer Staples
+2/26/2019,98.690002,WMT,Consumer Staples
+2/27/2019,98.110001,WMT,Consumer Staples
+2/28/2019,98.989998,WMT,Consumer Staples
+3/1/2019,97.93,WMT,Consumer Staples
+3/4/2019,97.849998,WMT,Consumer Staples
+3/5/2019,98.339996,WMT,Consumer Staples
+3/6/2019,98.260002,WMT,Consumer Staples
+3/7/2019,97.449997,WMT,Consumer Staples
+3/8/2019,97.589996,WMT,Consumer Staples
+3/11/2019,98.480003,WMT,Consumer Staples
+3/12/2019,98.370003,WMT,Consumer Staples
+3/13/2019,99.029999,WMT,Consumer Staples
+3/14/2019,98.220001,WMT,Consumer Staples
+3/15/2019,98.419998,WMT,Consumer Staples
+3/18/2019,99.660004,WMT,Consumer Staples
+3/19/2019,99.849998,WMT,Consumer Staples
+3/20/2019,98.639999,WMT,Consumer Staples
+3/21/2019,99.059998,WMT,Consumer Staples
+3/22/2019,98.279999,WMT,Consumer Staples
+3/25/2019,98.169998,WMT,Consumer Staples
+3/26/2019,98.32,WMT,Consumer Staples
+3/27/2019,97.209999,WMT,Consumer Staples
+3/28/2019,97.129997,WMT,Consumer Staples
+3/29/2019,97.529999,WMT,Consumer Staples
+4/1/2019,97.82,WMT,Consumer Staples
+4/2/2019,96.940002,WMT,Consumer Staples
+4/3/2019,97.190002,WMT,Consumer Staples
+4/4/2019,98.110001,WMT,Consumer Staples
+4/5/2019,98.830002,WMT,Consumer Staples
+4/8/2019,99.230003,WMT,Consumer Staples
+4/9/2019,98.690002,WMT,Consumer Staples
+4/10/2019,99.599998,WMT,Consumer Staples
+4/11/2019,100.800003,WMT,Consumer Staples
+4/12/2019,101.559998,WMT,Consumer Staples
+4/15/2019,102.43,WMT,Consumer Staples
+4/16/2019,102.93,WMT,Consumer Staples
+4/17/2019,103.160004,WMT,Consumer Staples
+4/18/2019,103.18,WMT,Consumer Staples
+4/22/2019,102.370003,WMT,Consumer Staples
+4/23/2019,103.07,WMT,Consumer Staples
+4/24/2019,103.529999,WMT,Consumer Staples
+4/25/2019,103.519997,WMT,Consumer Staples
+4/26/2019,101.529999,WMT,Consumer Staples
+4/29/2019,101.559998,WMT,Consumer Staples
+4/30/2019,102.839996,WMT,Consumer Staples
+5/1/2019,101.360001,WMT,Consumer Staples
+5/2/2019,101.150002,WMT,Consumer Staples
+5/3/2019,102.080002,WMT,Consumer Staples
+5/6/2019,102.459999,WMT,Consumer Staples
+5/7/2019,101.300003,WMT,Consumer Staples
+5/8/2019,100.300003,WMT,Consumer Staples
+5/9/2019,99.540001,WMT,Consumer Staples
+5/10/2019,101.910004,WMT,Consumer Staples
+5/13/2019,99.889999,WMT,Consumer Staples
+5/14/2019,100.290001,WMT,Consumer Staples
+5/15/2019,99.879997,WMT,Consumer Staples
+5/16/2019,101.309998,WMT,Consumer Staples
+5/17/2019,100.860001,WMT,Consumer Staples
+5/20/2019,101.519997,WMT,Consumer Staples
+5/21/2019,101.120003,WMT,Consumer Staples
+5/22/2019,102.230003,WMT,Consumer Staples
+5/23/2019,101.860001,WMT,Consumer Staples
+5/24/2019,102.669998,WMT,Consumer Staples
+5/28/2019,102.419998,WMT,Consumer Staples
+5/29/2019,102.120003,WMT,Consumer Staples
+5/30/2019,102.190002,WMT,Consumer Staples
+5/31/2019,101.440002,WMT,Consumer Staples
+6/3/2019,101.959999,WMT,Consumer Staples
+6/4/2019,102.559998,WMT,Consumer Staples
+6/5/2019,104.419998,WMT,Consumer Staples
+6/6/2019,105.110001,WMT,Consumer Staples
+6/7/2019,106.059998,WMT,Consumer Staples
+6/10/2019,107.519997,WMT,Consumer Staples
+6/11/2019,107.940002,WMT,Consumer Staples
+6/12/2019,108.82,WMT,Consumer Staples
+6/13/2019,108.650002,WMT,Consumer Staples
+6/14/2019,109.07,WMT,Consumer Staples
+6/17/2019,109.160004,WMT,Consumer Staples
+6/18/2019,109.650002,WMT,Consumer Staples
+6/19/2019,109.620003,WMT,Consumer Staples
+6/20/2019,110.32,WMT,Consumer Staples
+6/21/2019,111.129997,WMT,Consumer Staples
+6/24/2019,111.239998,WMT,Consumer Staples
+6/25/2019,110.720001,WMT,Consumer Staples
+6/26/2019,110.160004,WMT,Consumer Staples
+6/27/2019,110.099998,WMT,Consumer Staples
+6/28/2019,110.489998,WMT,Consumer Staples
+7/1/2019,110.620003,WMT,Consumer Staples
+7/2/2019,111.599998,WMT,Consumer Staples
+7/3/2019,112.32,WMT,Consumer Staples
+7/5/2019,111.980003,WMT,Consumer Staples
+7/8/2019,112.720001,WMT,Consumer Staples
+7/9/2019,112.879997,WMT,Consumer Staples
+7/10/2019,112.980003,WMT,Consumer Staples
+7/11/2019,113.919998,WMT,Consumer Staples
+7/12/2019,114.599998,WMT,Consumer Staples
+7/15/2019,114.980003,WMT,Consumer Staples
+7/16/2019,114.760002,WMT,Consumer Staples
+7/17/2019,114.599998,WMT,Consumer Staples
+7/18/2019,114.720001,WMT,Consumer Staples
+7/19/2019,113.900002,WMT,Consumer Staples
+7/22/2019,112.82,WMT,Consumer Staples
+7/23/2019,112.089996,WMT,Consumer Staples
+7/24/2019,112,WMT,Consumer Staples
+7/25/2019,112.220001,WMT,Consumer Staples
+7/26/2019,113.019997,WMT,Consumer Staples
+7/29/2019,112.269997,WMT,Consumer Staples
+7/30/2019,112.059998,WMT,Consumer Staples
+7/31/2019,110.379997,WMT,Consumer Staples
+8/1/2019,109.379997,WMT,Consumer Staples
+8/2/2019,109.400002,WMT,Consumer Staples
+8/5/2019,105.82,WMT,Consumer Staples
+8/6/2019,107.269997,WMT,Consumer Staples
+8/7/2019,108.199997,WMT,Consumer Staples
+8/8/2019,108.519997,WMT,Consumer Staples
+8/9/2019,107.279999,WMT,Consumer Staples
+8/12/2019,105.220001,WMT,Consumer Staples
+8/13/2019,107.410004,WMT,Consumer Staples
+8/14/2019,106.199997,WMT,Consumer Staples
+8/15/2019,112.690002,WMT,Consumer Staples
+8/16/2019,112.989998,WMT,Consumer Staples
+8/19/2019,113.809998,WMT,Consumer Staples
+8/20/2019,112.050003,WMT,Consumer Staples
+8/21/2019,112.019997,WMT,Consumer Staples
+8/22/2019,111.910004,WMT,Consumer Staples
+8/23/2019,110.830002,WMT,Consumer Staples
+8/26/2019,111.989998,WMT,Consumer Staples
+8/27/2019,112.419998,WMT,Consumer Staples
+8/28/2019,112.720001,WMT,Consumer Staples
+8/29/2019,114.080002,WMT,Consumer Staples
+8/30/2019,114.260002,WMT,Consumer Staples
+9/3/2019,114.639999,WMT,Consumer Staples
+9/4/2019,115.910004,WMT,Consumer Staples
+9/5/2019,115.440002,WMT,Consumer Staples
+9/6/2019,114.730003,WMT,Consumer Staples
+9/9/2019,116.330002,WMT,Consumer Staples
+9/10/2019,116.050003,WMT,Consumer Staples
+9/11/2019,116.019997,WMT,Consumer Staples
+9/12/2019,116.919998,WMT,Consumer Staples
+9/13/2019,117.43,WMT,Consumer Staples
+9/16/2019,115.57,WMT,Consumer Staples
+9/17/2019,116.510002,WMT,Consumer Staples
+9/18/2019,117.160004,WMT,Consumer Staples
+9/19/2019,117.110001,WMT,Consumer Staples
+9/20/2019,116.980003,WMT,Consumer Staples
+9/23/2019,117.620003,WMT,Consumer Staples
+9/24/2019,118.400002,WMT,Consumer Staples
+9/25/2019,118.470001,WMT,Consumer Staples
+9/26/2019,118.300003,WMT,Consumer Staples
+9/27/2019,118.449997,WMT,Consumer Staples
+9/30/2019,118.68,WMT,Consumer Staples
+10/1/2019,117.849998,WMT,Consumer Staples
+10/2/2019,116.120003,WMT,Consumer Staples
+10/3/2019,116.309998,WMT,Consumer Staples
+10/4/2019,118.160004,WMT,Consumer Staples
+10/7/2019,117.230003,WMT,Consumer Staples
+10/8/2019,117.580002,WMT,Consumer Staples
+10/9/2019,118.93,WMT,Consumer Staples
+10/10/2019,119.610001,WMT,Consumer Staples
+10/11/2019,120.239998,WMT,Consumer Staples
+10/14/2019,119.169998,WMT,Consumer Staples
+10/15/2019,119.529999,WMT,Consumer Staples
+10/16/2019,119.419998,WMT,Consumer Staples
+10/17/2019,119.839996,WMT,Consumer Staples
+10/18/2019,119.139999,WMT,Consumer Staples
+10/21/2019,119.739998,WMT,Consumer Staples
+10/22/2019,119.580002,WMT,Consumer Staples
+10/23/2019,119.349998,WMT,Consumer Staples
+10/24/2019,119.099998,WMT,Consumer Staples
+10/25/2019,119.040001,WMT,Consumer Staples
+10/28/2019,119.220001,WMT,Consumer Staples
+10/29/2019,117.150002,WMT,Consumer Staples
+10/30/2019,118.099998,WMT,Consumer Staples
+10/31/2019,117.260002,WMT,Consumer Staples
+11/1/2019,117.620003,WMT,Consumer Staples
+11/4/2019,117.57,WMT,Consumer Staples
+11/5/2019,118.860001,WMT,Consumer Staples
+11/6/2019,119.5,WMT,Consumer Staples
+11/7/2019,120.230003,WMT,Consumer Staples
+11/8/2019,119.440002,WMT,Consumer Staples
+11/11/2019,119.040001,WMT,Consumer Staples
+11/12/2019,119.120003,WMT,Consumer Staples
+11/13/2019,120.980003,WMT,Consumer Staples
+11/14/2019,120.650002,WMT,Consumer Staples
+11/15/2019,118.870003,WMT,Consumer Staples
+11/18/2019,120.25,WMT,Consumer Staples
+11/19/2019,119.889999,WMT,Consumer Staples
+11/20/2019,119.129997,WMT,Consumer Staples
+11/21/2019,119.860001,WMT,Consumer Staples
+11/22/2019,119.360001,WMT,Consumer Staples
+11/25/2019,118.919998,WMT,Consumer Staples
+11/26/2019,119.190002,WMT,Consumer Staples
+11/27/2019,118.760002,WMT,Consumer Staples
+11/29/2019,119.089996,WMT,Consumer Staples
+12/2/2019,119.279999,WMT,Consumer Staples
+12/3/2019,118.669998,WMT,Consumer Staples
+12/4/2019,118.690002,WMT,Consumer Staples
+12/5/2019,118.660004,WMT,Consumer Staples
+12/6/2019,119.779999,WMT,Consumer Staples
+12/9/2019,119.360001,WMT,Consumer Staples
+12/10/2019,119.139999,WMT,Consumer Staples
+12/11/2019,119,WMT,Consumer Staples
+12/12/2019,119.760002,WMT,Consumer Staples
+12/13/2019,120.290001,WMT,Consumer Staples
+12/16/2019,120.540001,WMT,Consumer Staples
+12/17/2019,121.279999,WMT,Consumer Staples
+12/18/2019,119.860001,WMT,Consumer Staples
+12/19/2019,120.080002,WMT,Consumer Staples
+12/20/2019,120.290001,WMT,Consumer Staples
+12/23/2019,119.029999,WMT,Consumer Staples
+12/24/2019,119.510002,WMT,Consumer Staples
+12/26/2019,119.519997,WMT,Consumer Staples
+12/27/2019,119.589996,WMT,Consumer Staples
+12/30/2019,119.400002,WMT,Consumer Staples
+1/2/2019,157.919998,AAPL,Information Technology
+1/3/2019,142.190002,AAPL,Information Technology
+1/4/2019,148.259995,AAPL,Information Technology
+1/7/2019,147.929993,AAPL,Information Technology
+1/8/2019,150.75,AAPL,Information Technology
+1/9/2019,153.309998,AAPL,Information Technology
+1/10/2019,153.800003,AAPL,Information Technology
+1/11/2019,152.289993,AAPL,Information Technology
+1/14/2019,150,AAPL,Information Technology
+1/15/2019,153.070007,AAPL,Information Technology
+1/16/2019,154.940002,AAPL,Information Technology
+1/17/2019,155.860001,AAPL,Information Technology
+1/18/2019,156.820007,AAPL,Information Technology
+1/22/2019,153.300003,AAPL,Information Technology
+1/23/2019,153.919998,AAPL,Information Technology
+1/24/2019,152.699997,AAPL,Information Technology
+1/25/2019,157.759995,AAPL,Information Technology
+1/28/2019,156.300003,AAPL,Information Technology
+1/29/2019,154.679993,AAPL,Information Technology
+1/30/2019,165.25,AAPL,Information Technology
+1/31/2019,166.440002,AAPL,Information Technology
+2/1/2019,166.520004,AAPL,Information Technology
+2/4/2019,171.25,AAPL,Information Technology
+2/5/2019,174.179993,AAPL,Information Technology
+2/6/2019,174.240005,AAPL,Information Technology
+2/7/2019,170.940002,AAPL,Information Technology
+2/8/2019,170.410004,AAPL,Information Technology
+2/11/2019,169.429993,AAPL,Information Technology
+2/12/2019,170.889999,AAPL,Information Technology
+2/13/2019,170.179993,AAPL,Information Technology
+2/14/2019,170.800003,AAPL,Information Technology
+2/15/2019,170.419998,AAPL,Information Technology
+2/19/2019,170.929993,AAPL,Information Technology
+2/20/2019,172.029999,AAPL,Information Technology
+2/21/2019,171.059998,AAPL,Information Technology
+2/22/2019,172.970001,AAPL,Information Technology
+2/25/2019,174.229996,AAPL,Information Technology
+2/26/2019,174.330002,AAPL,Information Technology
+2/27/2019,174.869995,AAPL,Information Technology
+2/28/2019,173.149994,AAPL,Information Technology
+3/1/2019,174.970001,AAPL,Information Technology
+3/4/2019,175.850006,AAPL,Information Technology
+3/5/2019,175.529999,AAPL,Information Technology
+3/6/2019,174.520004,AAPL,Information Technology
+3/7/2019,172.5,AAPL,Information Technology
+3/8/2019,172.910004,AAPL,Information Technology
+3/11/2019,178.899994,AAPL,Information Technology
+3/12/2019,180.910004,AAPL,Information Technology
+3/13/2019,181.710007,AAPL,Information Technology
+3/14/2019,183.729996,AAPL,Information Technology
+3/15/2019,186.119995,AAPL,Information Technology
+3/18/2019,188.020004,AAPL,Information Technology
+3/19/2019,186.529999,AAPL,Information Technology
+3/20/2019,188.160004,AAPL,Information Technology
+3/21/2019,195.089996,AAPL,Information Technology
+3/22/2019,191.050003,AAPL,Information Technology
+3/25/2019,188.740005,AAPL,Information Technology
+3/26/2019,186.789993,AAPL,Information Technology
+3/27/2019,188.470001,AAPL,Information Technology
+3/28/2019,188.720001,AAPL,Information Technology
+3/29/2019,189.949997,AAPL,Information Technology
+4/1/2019,191.240005,AAPL,Information Technology
+4/2/2019,194.020004,AAPL,Information Technology
+4/3/2019,195.350006,AAPL,Information Technology
+4/4/2019,195.690002,AAPL,Information Technology
+4/5/2019,197,AAPL,Information Technology
+4/8/2019,200.100006,AAPL,Information Technology
+4/9/2019,199.5,AAPL,Information Technology
+4/10/2019,200.619995,AAPL,Information Technology
+4/11/2019,198.949997,AAPL,Information Technology
+4/12/2019,198.869995,AAPL,Information Technology
+4/15/2019,199.229996,AAPL,Information Technology
+4/16/2019,199.25,AAPL,Information Technology
+4/17/2019,203.130005,AAPL,Information Technology
+4/18/2019,203.860001,AAPL,Information Technology
+4/22/2019,204.529999,AAPL,Information Technology
+4/23/2019,207.479996,AAPL,Information Technology
+4/24/2019,207.160004,AAPL,Information Technology
+4/25/2019,205.279999,AAPL,Information Technology
+4/26/2019,204.300003,AAPL,Information Technology
+4/29/2019,204.610001,AAPL,Information Technology
+4/30/2019,200.669998,AAPL,Information Technology
+5/1/2019,210.520004,AAPL,Information Technology
+5/2/2019,209.149994,AAPL,Information Technology
+5/3/2019,211.75,AAPL,Information Technology
+5/6/2019,208.479996,AAPL,Information Technology
+5/7/2019,202.860001,AAPL,Information Technology
+5/8/2019,202.899994,AAPL,Information Technology
+5/9/2019,200.720001,AAPL,Information Technology
+5/10/2019,197.179993,AAPL,Information Technology
+5/13/2019,185.720001,AAPL,Information Technology
+5/14/2019,188.660004,AAPL,Information Technology
+5/15/2019,190.919998,AAPL,Information Technology
+5/16/2019,190.080002,AAPL,Information Technology
+5/17/2019,189,AAPL,Information Technology
+5/20/2019,183.089996,AAPL,Information Technology
+5/21/2019,186.600006,AAPL,Information Technology
+5/22/2019,182.779999,AAPL,Information Technology
+5/23/2019,179.660004,AAPL,Information Technology
+5/24/2019,178.970001,AAPL,Information Technology
+5/28/2019,178.229996,AAPL,Information Technology
+5/29/2019,177.380005,AAPL,Information Technology
+5/30/2019,178.300003,AAPL,Information Technology
+5/31/2019,175.070007,AAPL,Information Technology
+6/3/2019,173.300003,AAPL,Information Technology
+6/4/2019,179.639999,AAPL,Information Technology
+6/5/2019,182.539993,AAPL,Information Technology
+6/6/2019,185.220001,AAPL,Information Technology
+6/7/2019,190.149994,AAPL,Information Technology
+6/10/2019,192.580002,AAPL,Information Technology
+6/11/2019,194.809998,AAPL,Information Technology
+6/12/2019,194.190002,AAPL,Information Technology
+6/13/2019,194.149994,AAPL,Information Technology
+6/14/2019,192.740005,AAPL,Information Technology
+6/17/2019,193.889999,AAPL,Information Technology
+6/18/2019,198.449997,AAPL,Information Technology
+6/19/2019,197.869995,AAPL,Information Technology
+6/20/2019,199.460007,AAPL,Information Technology
+6/21/2019,198.779999,AAPL,Information Technology
+6/24/2019,198.580002,AAPL,Information Technology
+6/25/2019,195.570007,AAPL,Information Technology
+6/26/2019,199.800003,AAPL,Information Technology
+6/27/2019,199.740005,AAPL,Information Technology
+6/28/2019,197.919998,AAPL,Information Technology
+7/1/2019,201.550003,AAPL,Information Technology
+7/2/2019,202.729996,AAPL,Information Technology
+7/3/2019,204.410004,AAPL,Information Technology
+7/5/2019,204.229996,AAPL,Information Technology
+7/8/2019,200.020004,AAPL,Information Technology
+7/9/2019,201.240005,AAPL,Information Technology
+7/10/2019,203.229996,AAPL,Information Technology
+7/11/2019,201.75,AAPL,Information Technology
+7/12/2019,203.300003,AAPL,Information Technology
+7/15/2019,205.210007,AAPL,Information Technology
+7/16/2019,204.5,AAPL,Information Technology
+7/17/2019,203.350006,AAPL,Information Technology
+7/18/2019,205.660004,AAPL,Information Technology
+7/19/2019,202.589996,AAPL,Information Technology
+7/22/2019,207.220001,AAPL,Information Technology
+7/23/2019,208.839996,AAPL,Information Technology
+7/24/2019,208.669998,AAPL,Information Technology
+7/25/2019,207.020004,AAPL,Information Technology
+7/26/2019,207.740005,AAPL,Information Technology
+7/29/2019,209.679993,AAPL,Information Technology
+7/30/2019,208.779999,AAPL,Information Technology
+7/31/2019,213.039993,AAPL,Information Technology
+8/1/2019,208.429993,AAPL,Information Technology
+8/2/2019,204.020004,AAPL,Information Technology
+8/5/2019,193.339996,AAPL,Information Technology
+8/6/2019,197,AAPL,Information Technology
+8/7/2019,199.039993,AAPL,Information Technology
+8/8/2019,203.429993,AAPL,Information Technology
+8/9/2019,200.990005,AAPL,Information Technology
+8/12/2019,200.479996,AAPL,Information Technology
+8/13/2019,208.970001,AAPL,Information Technology
+8/14/2019,202.75,AAPL,Information Technology
+8/15/2019,201.740005,AAPL,Information Technology
+8/16/2019,206.5,AAPL,Information Technology
+8/19/2019,210.350006,AAPL,Information Technology
+8/20/2019,210.360001,AAPL,Information Technology
+8/21/2019,212.639999,AAPL,Information Technology
+8/22/2019,212.460007,AAPL,Information Technology
+8/23/2019,202.639999,AAPL,Information Technology
+8/26/2019,206.490005,AAPL,Information Technology
+8/27/2019,204.160004,AAPL,Information Technology
+8/28/2019,205.529999,AAPL,Information Technology
+8/29/2019,209.009995,AAPL,Information Technology
+8/30/2019,208.740005,AAPL,Information Technology
+9/3/2019,205.699997,AAPL,Information Technology
+9/4/2019,209.190002,AAPL,Information Technology
+9/5/2019,213.279999,AAPL,Information Technology
+9/6/2019,213.259995,AAPL,Information Technology
+9/9/2019,214.169998,AAPL,Information Technology
+9/10/2019,216.699997,AAPL,Information Technology
+9/11/2019,223.589996,AAPL,Information Technology
+9/12/2019,223.089996,AAPL,Information Technology
+9/13/2019,218.75,AAPL,Information Technology
+9/16/2019,219.899994,AAPL,Information Technology
+9/17/2019,220.699997,AAPL,Information Technology
+9/18/2019,222.770004,AAPL,Information Technology
+9/19/2019,220.960007,AAPL,Information Technology
+9/20/2019,217.729996,AAPL,Information Technology
+9/23/2019,218.720001,AAPL,Information Technology
+9/24/2019,217.679993,AAPL,Information Technology
+9/25/2019,221.029999,AAPL,Information Technology
+9/26/2019,219.889999,AAPL,Information Technology
+9/27/2019,218.820007,AAPL,Information Technology
+9/30/2019,223.970001,AAPL,Information Technology
+10/1/2019,224.589996,AAPL,Information Technology
+10/2/2019,218.960007,AAPL,Information Technology
+10/3/2019,220.820007,AAPL,Information Technology
+10/4/2019,227.009995,AAPL,Information Technology
+10/7/2019,227.059998,AAPL,Information Technology
+10/8/2019,224.399994,AAPL,Information Technology
+10/9/2019,227.029999,AAPL,Information Technology
+10/10/2019,230.089996,AAPL,Information Technology
+10/11/2019,236.210007,AAPL,Information Technology
+10/14/2019,235.869995,AAPL,Information Technology
+10/15/2019,235.320007,AAPL,Information Technology
+10/16/2019,234.369995,AAPL,Information Technology
+10/17/2019,235.279999,AAPL,Information Technology
+10/18/2019,236.410004,AAPL,Information Technology
+10/21/2019,240.509995,AAPL,Information Technology
+10/22/2019,239.960007,AAPL,Information Technology
+10/23/2019,243.179993,AAPL,Information Technology
+10/24/2019,243.580002,AAPL,Information Technology
+10/25/2019,246.580002,AAPL,Information Technology
+10/28/2019,249.050003,AAPL,Information Technology
+10/29/2019,243.289993,AAPL,Information Technology
+10/30/2019,243.259995,AAPL,Information Technology
+10/31/2019,248.759995,AAPL,Information Technology
+11/1/2019,255.820007,AAPL,Information Technology
+11/4/2019,257.5,AAPL,Information Technology
+11/5/2019,257.130005,AAPL,Information Technology
+11/6/2019,257.23999,AAPL,Information Technology
+11/7/2019,259.429993,AAPL,Information Technology
+11/8/2019,260.140015,AAPL,Information Technology
+11/11/2019,262.200012,AAPL,Information Technology
+11/12/2019,261.959991,AAPL,Information Technology
+11/13/2019,264.470001,AAPL,Information Technology
+11/14/2019,262.640015,AAPL,Information Technology
+11/15/2019,265.76001,AAPL,Information Technology
+11/18/2019,267.100006,AAPL,Information Technology
+11/19/2019,266.290009,AAPL,Information Technology
+11/20/2019,263.190002,AAPL,Information Technology
+11/21/2019,262.01001,AAPL,Information Technology
+11/22/2019,261.779999,AAPL,Information Technology
+11/25/2019,266.369995,AAPL,Information Technology
+11/26/2019,264.290009,AAPL,Information Technology
+11/27/2019,267.839996,AAPL,Information Technology
+11/29/2019,267.25,AAPL,Information Technology
+12/2/2019,264.160004,AAPL,Information Technology
+12/3/2019,259.450012,AAPL,Information Technology
+12/4/2019,261.73999,AAPL,Information Technology
+12/5/2019,265.579987,AAPL,Information Technology
+12/6/2019,270.709991,AAPL,Information Technology
+12/9/2019,266.920013,AAPL,Information Technology
+12/10/2019,268.480011,AAPL,Information Technology
+12/11/2019,270.769989,AAPL,Information Technology
+12/12/2019,271.459991,AAPL,Information Technology
+12/13/2019,275.149994,AAPL,Information Technology
+12/16/2019,279.859985,AAPL,Information Technology
+12/17/2019,280.410004,AAPL,Information Technology
+12/18/2019,279.73999,AAPL,Information Technology
+12/19/2019,280.019989,AAPL,Information Technology
+12/20/2019,279.440002,AAPL,Information Technology
+12/23/2019,284,AAPL,Information Technology
+12/24/2019,284.269989,AAPL,Information Technology
+12/26/2019,289.910004,AAPL,Information Technology
+12/27/2019,289.799988,AAPL,Information Technology
+12/30/2019,291.519989,AAPL,Information Technology
+1/2/2019,107.959999,AMP,Ameriprise Financial
+1/3/2019,105.099998,AMP,Ameriprise Financial
+1/4/2019,110.730003,AMP,Ameriprise Financial
+1/7/2019,111.239998,AMP,Ameriprise Financial
+1/8/2019,111.940002,AMP,Ameriprise Financial
+1/9/2019,113.099998,AMP,Ameriprise Financial
+1/10/2019,113.440002,AMP,Ameriprise Financial
+1/11/2019,113.440002,AMP,Ameriprise Financial
+1/14/2019,114.040001,AMP,Ameriprise Financial
+1/15/2019,115.18,AMP,Ameriprise Financial
+1/16/2019,118.260002,AMP,Ameriprise Financial
+1/17/2019,118.589996,AMP,Ameriprise Financial
+1/18/2019,121.110001,AMP,Ameriprise Financial
+1/22/2019,119.279999,AMP,Ameriprise Financial
+1/23/2019,118.809998,AMP,Ameriprise Financial
+1/24/2019,119.779999,AMP,Ameriprise Financial
+1/25/2019,121.120003,AMP,Ameriprise Financial
+1/28/2019,121.790001,AMP,Ameriprise Financial
+1/29/2019,121.379997,AMP,Ameriprise Financial
+1/30/2019,120.18,AMP,Ameriprise Financial
+1/31/2019,126.599998,AMP,Ameriprise Financial
+2/1/2019,126.889999,AMP,Ameriprise Financial
+2/4/2019,127.089996,AMP,Ameriprise Financial
+2/5/2019,125.669998,AMP,Ameriprise Financial
+2/6/2019,126.690002,AMP,Ameriprise Financial
+2/7/2019,125.220001,AMP,Ameriprise Financial
+2/8/2019,125.57,AMP,Ameriprise Financial
+2/11/2019,125.949997,AMP,Ameriprise Financial
+2/12/2019,128.830002,AMP,Ameriprise Financial
+2/13/2019,129.800003,AMP,Ameriprise Financial
+2/14/2019,127.160004,AMP,Ameriprise Financial
+2/15/2019,130.679993,AMP,Ameriprise Financial
+2/19/2019,131.960007,AMP,Ameriprise Financial
+2/20/2019,132.889999,AMP,Ameriprise Financial
+2/21/2019,131.690002,AMP,Ameriprise Financial
+2/22/2019,134.889999,AMP,Ameriprise Financial
+2/25/2019,131.940002,AMP,Ameriprise Financial
+2/26/2019,131,AMP,Ameriprise Financial
+2/27/2019,131.869995,AMP,Ameriprise Financial
+2/28/2019,131.630005,AMP,Ameriprise Financial
+3/1/2019,132.179993,AMP,Ameriprise Financial
+3/4/2019,130.589996,AMP,Ameriprise Financial
+3/5/2019,130.130005,AMP,Ameriprise Financial
+3/6/2019,127.860001,AMP,Ameriprise Financial
+3/7/2019,124.910004,AMP,Ameriprise Financial
+3/8/2019,124.349998,AMP,Ameriprise Financial
+3/11/2019,124.360001,AMP,Ameriprise Financial
+3/12/2019,124.610001,AMP,Ameriprise Financial
+3/13/2019,124.860001,AMP,Ameriprise Financial
+3/14/2019,125.07,AMP,Ameriprise Financial
+3/15/2019,129.050003,AMP,Ameriprise Financial
+3/18/2019,130.360001,AMP,Ameriprise Financial
+3/19/2019,128.869995,AMP,Ameriprise Financial
+3/20/2019,129.130005,AMP,Ameriprise Financial
+3/21/2019,129.550003,AMP,Ameriprise Financial
+3/22/2019,124.129997,AMP,Ameriprise Financial
+3/25/2019,123.800003,AMP,Ameriprise Financial
+3/26/2019,125.870003,AMP,Ameriprise Financial
+3/27/2019,125.589996,AMP,Ameriprise Financial
+3/28/2019,126.989998,AMP,Ameriprise Financial
+3/29/2019,128.100006,AMP,Ameriprise Financial
+4/1/2019,132.679993,AMP,Ameriprise Financial
+4/2/2019,136.119995,AMP,Ameriprise Financial
+4/3/2019,136.559998,AMP,Ameriprise Financial
+4/4/2019,137.279999,AMP,Ameriprise Financial
+4/5/2019,137.940002,AMP,Ameriprise Financial
+4/8/2019,138.539993,AMP,Ameriprise Financial
+4/9/2019,136.470001,AMP,Ameriprise Financial
+4/10/2019,138.539993,AMP,Ameriprise Financial
+4/11/2019,139.649994,AMP,Ameriprise Financial
+4/12/2019,142.539993,AMP,Ameriprise Financial
+4/15/2019,141.270004,AMP,Ameriprise Financial
+4/16/2019,144.070007,AMP,Ameriprise Financial
+4/17/2019,143.25,AMP,Ameriprise Financial
+4/18/2019,143.270004,AMP,Ameriprise Financial
+4/22/2019,143.110001,AMP,Ameriprise Financial
+4/23/2019,144.850006,AMP,Ameriprise Financial
+4/24/2019,144,AMP,Ameriprise Financial
+4/25/2019,145.059998,AMP,Ameriprise Financial
+4/26/2019,146.630005,AMP,Ameriprise Financial
+4/29/2019,147.720001,AMP,Ameriprise Financial
+4/30/2019,146.770004,AMP,Ameriprise Financial
+5/1/2019,146.600006,AMP,Ameriprise Financial
+5/2/2019,147.369995,AMP,Ameriprise Financial
+5/3/2019,147.850006,AMP,Ameriprise Financial
+5/6/2019,147.279999,AMP,Ameriprise Financial
+5/7/2019,144.270004,AMP,Ameriprise Financial
+5/8/2019,143.029999,AMP,Ameriprise Financial
+5/9/2019,142.830002,AMP,Ameriprise Financial
+5/10/2019,144.559998,AMP,Ameriprise Financial
+5/13/2019,139.380005,AMP,Ameriprise Financial
+5/14/2019,142.520004,AMP,Ameriprise Financial
+5/15/2019,142.25,AMP,Ameriprise Financial
+5/16/2019,144.970001,AMP,Ameriprise Financial
+5/17/2019,143.789993,AMP,Ameriprise Financial
+5/20/2019,145.880005,AMP,Ameriprise Financial
+5/21/2019,148.399994,AMP,Ameriprise Financial
+5/22/2019,146.360001,AMP,Ameriprise Financial
+5/23/2019,144.360001,AMP,Ameriprise Financial
+5/24/2019,146.389999,AMP,Ameriprise Financial
+5/28/2019,144.25,AMP,Ameriprise Financial
+5/29/2019,144.029999,AMP,Ameriprise Financial
+5/30/2019,143.350006,AMP,Ameriprise Financial
+5/31/2019,138.229996,AMP,Ameriprise Financial
+6/3/2019,140.779999,AMP,Ameriprise Financial
+6/4/2019,146.919998,AMP,Ameriprise Financial
+6/5/2019,147.5,AMP,Ameriprise Financial
+6/6/2019,149.75,AMP,Ameriprise Financial
+6/7/2019,149.869995,AMP,Ameriprise Financial
+6/10/2019,151.25,AMP,Ameriprise Financial
+6/11/2019,151.919998,AMP,Ameriprise Financial
+6/12/2019,150.389999,AMP,Ameriprise Financial
+6/13/2019,151.539993,AMP,Ameriprise Financial
+6/14/2019,153.529999,AMP,Ameriprise Financial
+6/17/2019,147.789993,AMP,Ameriprise Financial
+6/18/2019,150.039993,AMP,Ameriprise Financial
+6/19/2019,148.089996,AMP,Ameriprise Financial
+6/20/2019,149.289993,AMP,Ameriprise Financial
+6/21/2019,146.770004,AMP,Ameriprise Financial
+6/24/2019,147.720001,AMP,Ameriprise Financial
+6/25/2019,143.699997,AMP,Ameriprise Financial
+6/26/2019,146.119995,AMP,Ameriprise Financial
+6/27/2019,144.029999,AMP,Ameriprise Financial
+6/28/2019,145.160004,AMP,Ameriprise Financial
+7/1/2019,145.75,AMP,Ameriprise Financial
+7/2/2019,146.020004,AMP,Ameriprise Financial
+7/3/2019,147.820007,AMP,Ameriprise Financial
+7/5/2019,150.119995,AMP,Ameriprise Financial
+7/8/2019,148.940002,AMP,Ameriprise Financial
+7/9/2019,150.199997,AMP,Ameriprise Financial
+7/10/2019,148.320007,AMP,Ameriprise Financial
+7/11/2019,150.419998,AMP,Ameriprise Financial
+7/12/2019,151.139999,AMP,Ameriprise Financial
+7/15/2019,150.289993,AMP,Ameriprise Financial
+7/16/2019,150.889999,AMP,Ameriprise Financial
+7/17/2019,148.470001,AMP,Ameriprise Financial
+7/18/2019,150.080002,AMP,Ameriprise Financial
+7/19/2019,148.660004,AMP,Ameriprise Financial
+7/22/2019,147.830002,AMP,Ameriprise Financial
+7/23/2019,149.089996,AMP,Ameriprise Financial
+7/24/2019,151.470001,AMP,Ameriprise Financial
+7/25/2019,146.970001,AMP,Ameriprise Financial
+7/26/2019,149.929993,AMP,Ameriprise Financial
+7/29/2019,149.740005,AMP,Ameriprise Financial
+7/30/2019,148.529999,AMP,Ameriprise Financial
+7/31/2019,145.509995,AMP,Ameriprise Financial
+8/1/2019,140.559998,AMP,Ameriprise Financial
+8/2/2019,135.300003,AMP,Ameriprise Financial
+8/5/2019,130.449997,AMP,Ameriprise Financial
+8/6/2019,133.270004,AMP,Ameriprise Financial
+8/7/2019,131.050003,AMP,Ameriprise Financial
+8/8/2019,134.940002,AMP,Ameriprise Financial
+8/9/2019,131.820007,AMP,Ameriprise Financial
+8/12/2019,125.480003,AMP,Ameriprise Financial
+8/13/2019,128.720001,AMP,Ameriprise Financial
+8/14/2019,122.400002,AMP,Ameriprise Financial
+8/15/2019,122.75,AMP,Ameriprise Financial
+8/16/2019,126.339996,AMP,Ameriprise Financial
+8/19/2019,128.029999,AMP,Ameriprise Financial
+8/20/2019,126.349998,AMP,Ameriprise Financial
+8/21/2019,127.949997,AMP,Ameriprise Financial
+8/22/2019,128.580002,AMP,Ameriprise Financial
+8/23/2019,124.489998,AMP,Ameriprise Financial
+8/26/2019,126.150002,AMP,Ameriprise Financial
+8/27/2019,125.239998,AMP,Ameriprise Financial
+8/28/2019,125.849998,AMP,Ameriprise Financial
+8/29/2019,128.429993,AMP,Ameriprise Financial
+8/30/2019,128.979996,AMP,Ameriprise Financial
+9/3/2019,127.199997,AMP,Ameriprise Financial
+9/4/2019,129.270004,AMP,Ameriprise Financial
+9/5/2019,133.410004,AMP,Ameriprise Financial
+9/6/2019,134.75,AMP,Ameriprise Financial
+9/9/2019,137.869995,AMP,Ameriprise Financial
+9/10/2019,144.630005,AMP,Ameriprise Financial
+9/11/2019,145.570007,AMP,Ameriprise Financial
+9/12/2019,146.380005,AMP,Ameriprise Financial
+9/13/2019,147.429993,AMP,Ameriprise Financial
+9/16/2019,147.429993,AMP,Ameriprise Financial
+9/17/2019,146.089996,AMP,Ameriprise Financial
+9/18/2019,147.539993,AMP,Ameriprise Financial
+9/19/2019,147.289993,AMP,Ameriprise Financial
+9/20/2019,145.779999,AMP,Ameriprise Financial
+9/23/2019,147.289993,AMP,Ameriprise Financial
+9/24/2019,144.899994,AMP,Ameriprise Financial
+9/25/2019,145.470001,AMP,Ameriprise Financial
+9/26/2019,146.119995,AMP,Ameriprise Financial
+9/27/2019,147.539993,AMP,Ameriprise Financial
+9/30/2019,147.100006,AMP,Ameriprise Financial
+10/1/2019,140.740005,AMP,Ameriprise Financial
+10/2/2019,135.339996,AMP,Ameriprise Financial
+10/3/2019,135.169998,AMP,Ameriprise Financial
+10/4/2019,136.190002,AMP,Ameriprise Financial
+10/7/2019,134.729996,AMP,Ameriprise Financial
+10/8/2019,129.210007,AMP,Ameriprise Financial
+10/9/2019,132.190002,AMP,Ameriprise Financial
+10/10/2019,134.009995,AMP,Ameriprise Financial
+10/11/2019,138.270004,AMP,Ameriprise Financial
+10/14/2019,138.820007,AMP,Ameriprise Financial
+10/15/2019,140.220001,AMP,Ameriprise Financial
+10/16/2019,139.770004,AMP,Ameriprise Financial
+10/17/2019,140.490005,AMP,Ameriprise Financial
+10/18/2019,142,AMP,Ameriprise Financial
+10/21/2019,144.300003,AMP,Ameriprise Financial
+10/22/2019,142.449997,AMP,Ameriprise Financial
+10/23/2019,143.470001,AMP,Ameriprise Financial
+10/24/2019,149.630005,AMP,Ameriprise Financial
+10/25/2019,149.449997,AMP,Ameriprise Financial
+10/28/2019,152.809998,AMP,Ameriprise Financial
+10/29/2019,153.699997,AMP,Ameriprise Financial
+10/30/2019,152,AMP,Ameriprise Financial
+10/31/2019,150.889999,AMP,Ameriprise Financial
+11/1/2019,152.889999,AMP,Ameriprise Financial
+11/4/2019,155.339996,AMP,Ameriprise Financial
+11/5/2019,158.289993,AMP,Ameriprise Financial
+11/6/2019,157.869995,AMP,Ameriprise Financial
+11/7/2019,157.740005,AMP,Ameriprise Financial
+11/8/2019,158.539993,AMP,Ameriprise Financial
+11/11/2019,158.380005,AMP,Ameriprise Financial
+11/12/2019,158.899994,AMP,Ameriprise Financial
+11/13/2019,158.389999,AMP,Ameriprise Financial
+11/14/2019,159.320007,AMP,Ameriprise Financial
+11/15/2019,160.169998,AMP,Ameriprise Financial
+11/18/2019,158.259995,AMP,Ameriprise Financial
+11/19/2019,159.009995,AMP,Ameriprise Financial
+11/20/2019,158.380005,AMP,Ameriprise Financial
+11/21/2019,158.050003,AMP,Ameriprise Financial
+11/22/2019,159.770004,AMP,Ameriprise Financial
+11/25/2019,161.779999,AMP,Ameriprise Financial
+11/26/2019,161.020004,AMP,Ameriprise Financial
+11/27/2019,163.389999,AMP,Ameriprise Financial
+11/29/2019,163.869995,AMP,Ameriprise Financial
+12/2/2019,162.559998,AMP,Ameriprise Financial
+12/3/2019,159.979996,AMP,Ameriprise Financial
+12/4/2019,162.039993,AMP,Ameriprise Financial
+12/5/2019,162.779999,AMP,Ameriprise Financial
+12/6/2019,164.899994,AMP,Ameriprise Financial
+12/9/2019,164.820007,AMP,Ameriprise Financial
+12/10/2019,165.210007,AMP,Ameriprise Financial
+12/11/2019,164.509995,AMP,Ameriprise Financial
+12/12/2019,168.429993,AMP,Ameriprise Financial
+12/13/2019,167.440002,AMP,Ameriprise Financial
+12/16/2019,167.440002,AMP,Ameriprise Financial
+12/17/2019,167.339996,AMP,Ameriprise Financial
+12/18/2019,167.259995,AMP,Ameriprise Financial
+12/19/2019,167.279999,AMP,Ameriprise Financial
+12/20/2019,168.089996,AMP,Ameriprise Financial
+12/23/2019,167.279999,AMP,Ameriprise Financial
+12/24/2019,167.720001,AMP,Ameriprise Financial
+12/26/2019,167.679993,AMP,Ameriprise Financial
+12/27/2019,166.710007,AMP,Ameriprise Financial
+12/30/2019,166.070007,AMP,Ameriprise Financial
+1/2/2019,1539.130005,AMZN,Consumer Discretionary
+1/3/2019,1500.280029,AMZN,Consumer Discretionary
+1/4/2019,1575.390015,AMZN,Consumer Discretionary
+1/7/2019,1629.51001,AMZN,Consumer Discretionary
+1/8/2019,1656.579956,AMZN,Consumer Discretionary
+1/9/2019,1659.420044,AMZN,Consumer Discretionary
+1/10/2019,1656.219971,AMZN,Consumer Discretionary
+1/11/2019,1640.560059,AMZN,Consumer Discretionary
+1/14/2019,1617.209961,AMZN,Consumer Discretionary
+1/15/2019,1674.560059,AMZN,Consumer Discretionary
+1/16/2019,1683.780029,AMZN,Consumer Discretionary
+1/17/2019,1693.219971,AMZN,Consumer Discretionary
+1/18/2019,1696.199951,AMZN,Consumer Discretionary
+1/22/2019,1632.170044,AMZN,Consumer Discretionary
+1/23/2019,1640.02002,AMZN,Consumer Discretionary
+1/24/2019,1654.930054,AMZN,Consumer Discretionary
+1/25/2019,1670.569946,AMZN,Consumer Discretionary
+1/28/2019,1637.890015,AMZN,Consumer Discretionary
+1/29/2019,1593.880005,AMZN,Consumer Discretionary
+1/30/2019,1670.430054,AMZN,Consumer Discretionary
+1/31/2019,1718.72998,AMZN,Consumer Discretionary
+2/1/2019,1626.22998,AMZN,Consumer Discretionary
+2/4/2019,1633.310059,AMZN,Consumer Discretionary
+2/5/2019,1658.810059,AMZN,Consumer Discretionary
+2/6/2019,1640.26001,AMZN,Consumer Discretionary
+2/7/2019,1614.369995,AMZN,Consumer Discretionary
+2/8/2019,1588.219971,AMZN,Consumer Discretionary
+2/11/2019,1591,AMZN,Consumer Discretionary
+2/12/2019,1638.01001,AMZN,Consumer Discretionary
+2/13/2019,1640,AMZN,Consumer Discretionary
+2/14/2019,1622.650024,AMZN,Consumer Discretionary
+2/15/2019,1607.949951,AMZN,Consumer Discretionary
+2/19/2019,1627.579956,AMZN,Consumer Discretionary
+2/20/2019,1622.099976,AMZN,Consumer Discretionary
+2/21/2019,1619.439941,AMZN,Consumer Discretionary
+2/22/2019,1631.560059,AMZN,Consumer Discretionary
+2/25/2019,1633,AMZN,Consumer Discretionary
+2/26/2019,1636.400024,AMZN,Consumer Discretionary
+2/27/2019,1641.089966,AMZN,Consumer Discretionary
+2/28/2019,1639.829956,AMZN,Consumer Discretionary
+3/1/2019,1671.72998,AMZN,Consumer Discretionary
+3/4/2019,1696.170044,AMZN,Consumer Discretionary
+3/5/2019,1692.430054,AMZN,Consumer Discretionary
+3/6/2019,1668.949951,AMZN,Consumer Discretionary
+3/7/2019,1625.949951,AMZN,Consumer Discretionary
+3/8/2019,1620.800049,AMZN,Consumer Discretionary
+3/11/2019,1670.619995,AMZN,Consumer Discretionary
+3/12/2019,1673.099976,AMZN,Consumer Discretionary
+3/13/2019,1690.810059,AMZN,Consumer Discretionary
+3/14/2019,1686.219971,AMZN,Consumer Discretionary
+3/15/2019,1712.359985,AMZN,Consumer Discretionary
+3/18/2019,1742.150024,AMZN,Consumer Discretionary
+3/19/2019,1761.849976,AMZN,Consumer Discretionary
+3/20/2019,1797.27002,AMZN,Consumer Discretionary
+3/21/2019,1819.26001,AMZN,Consumer Discretionary
+3/22/2019,1764.77002,AMZN,Consumer Discretionary
+3/25/2019,1774.26001,AMZN,Consumer Discretionary
+3/26/2019,1783.76001,AMZN,Consumer Discretionary
+3/27/2019,1765.699951,AMZN,Consumer Discretionary
+3/28/2019,1773.420044,AMZN,Consumer Discretionary
+3/29/2019,1780.75,AMZN,Consumer Discretionary
+4/1/2019,1814.189941,AMZN,Consumer Discretionary
+4/2/2019,1813.97998,AMZN,Consumer Discretionary
+4/3/2019,1820.699951,AMZN,Consumer Discretionary
+4/4/2019,1818.859985,AMZN,Consumer Discretionary
+4/5/2019,1837.280029,AMZN,Consumer Discretionary
+4/8/2019,1849.859985,AMZN,Consumer Discretionary
+4/9/2019,1835.839966,AMZN,Consumer Discretionary
+4/10/2019,1847.329956,AMZN,Consumer Discretionary
+4/11/2019,1844.069946,AMZN,Consumer Discretionary
+4/12/2019,1843.060059,AMZN,Consumer Discretionary
+4/15/2019,1844.869995,AMZN,Consumer Discretionary
+4/16/2019,1863.040039,AMZN,Consumer Discretionary
+4/17/2019,1864.819946,AMZN,Consumer Discretionary
+4/18/2019,1861.689941,AMZN,Consumer Discretionary
+4/22/2019,1887.310059,AMZN,Consumer Discretionary
+4/23/2019,1923.77002,AMZN,Consumer Discretionary
+4/24/2019,1901.75,AMZN,Consumer Discretionary
+4/25/2019,1902.25,AMZN,Consumer Discretionary
+4/26/2019,1950.630005,AMZN,Consumer Discretionary
+4/29/2019,1938.430054,AMZN,Consumer Discretionary
+4/30/2019,1926.52002,AMZN,Consumer Discretionary
+5/1/2019,1911.52002,AMZN,Consumer Discretionary
+5/2/2019,1900.819946,AMZN,Consumer Discretionary
+5/3/2019,1962.459961,AMZN,Consumer Discretionary
+5/6/2019,1950.550049,AMZN,Consumer Discretionary
+5/7/2019,1921,AMZN,Consumer Discretionary
+5/8/2019,1917.77002,AMZN,Consumer Discretionary
+5/9/2019,1899.869995,AMZN,Consumer Discretionary
+5/10/2019,1889.97998,AMZN,Consumer Discretionary
+5/13/2019,1822.680054,AMZN,Consumer Discretionary
+5/14/2019,1840.119995,AMZN,Consumer Discretionary
+5/15/2019,1871.150024,AMZN,Consumer Discretionary
+5/16/2019,1907.569946,AMZN,Consumer Discretionary
+5/17/2019,1869,AMZN,Consumer Discretionary
+5/20/2019,1858.969971,AMZN,Consumer Discretionary
+5/21/2019,1857.52002,AMZN,Consumer Discretionary
+5/22/2019,1859.680054,AMZN,Consumer Discretionary
+5/23/2019,1815.47998,AMZN,Consumer Discretionary
+5/24/2019,1823.280029,AMZN,Consumer Discretionary
+5/28/2019,1836.430054,AMZN,Consumer Discretionary
+5/29/2019,1819.189941,AMZN,Consumer Discretionary
+5/30/2019,1816.319946,AMZN,Consumer Discretionary
+5/31/2019,1775.069946,AMZN,Consumer Discretionary
+6/3/2019,1692.689941,AMZN,Consumer Discretionary
+6/4/2019,1729.560059,AMZN,Consumer Discretionary
+6/5/2019,1738.5,AMZN,Consumer Discretionary
+6/6/2019,1754.359985,AMZN,Consumer Discretionary
+6/7/2019,1804.030029,AMZN,Consumer Discretionary
+6/10/2019,1860.630005,AMZN,Consumer Discretionary
+6/11/2019,1863.699951,AMZN,Consumer Discretionary
+6/12/2019,1855.319946,AMZN,Consumer Discretionary
+6/13/2019,1870.300049,AMZN,Consumer Discretionary
+6/14/2019,1869.670044,AMZN,Consumer Discretionary
+6/17/2019,1886.030029,AMZN,Consumer Discretionary
+6/18/2019,1901.369995,AMZN,Consumer Discretionary
+6/19/2019,1908.790039,AMZN,Consumer Discretionary
+6/20/2019,1918.189941,AMZN,Consumer Discretionary
+6/21/2019,1911.300049,AMZN,Consumer Discretionary
+6/24/2019,1913.900024,AMZN,Consumer Discretionary
+6/25/2019,1878.27002,AMZN,Consumer Discretionary
+6/26/2019,1897.829956,AMZN,Consumer Discretionary
+6/27/2019,1904.280029,AMZN,Consumer Discretionary
+6/28/2019,1893.630005,AMZN,Consumer Discretionary
+7/1/2019,1922.189941,AMZN,Consumer Discretionary
+7/2/2019,1934.310059,AMZN,Consumer Discretionary
+7/3/2019,1939,AMZN,Consumer Discretionary
+7/5/2019,1942.910034,AMZN,Consumer Discretionary
+7/8/2019,1952.319946,AMZN,Consumer Discretionary
+7/9/2019,1988.300049,AMZN,Consumer Discretionary
+7/10/2019,2017.410034,AMZN,Consumer Discretionary
+7/11/2019,2001.069946,AMZN,Consumer Discretionary
+7/12/2019,2011,AMZN,Consumer Discretionary
+7/15/2019,2020.98999,AMZN,Consumer Discretionary
+7/16/2019,2009.900024,AMZN,Consumer Discretionary
+7/17/2019,1992.030029,AMZN,Consumer Discretionary
+7/18/2019,1977.900024,AMZN,Consumer Discretionary
+7/19/2019,1964.52002,AMZN,Consumer Discretionary
+7/22/2019,1985.630005,AMZN,Consumer Discretionary
+7/23/2019,1994.48999,AMZN,Consumer Discretionary
+7/24/2019,2000.810059,AMZN,Consumer Discretionary
+7/25/2019,1973.819946,AMZN,Consumer Discretionary
+7/26/2019,1943.050049,AMZN,Consumer Discretionary
+7/29/2019,1912.449951,AMZN,Consumer Discretionary
+7/30/2019,1898.530029,AMZN,Consumer Discretionary
+7/31/2019,1866.780029,AMZN,Consumer Discretionary
+8/1/2019,1855.319946,AMZN,Consumer Discretionary
+8/2/2019,1823.23999,AMZN,Consumer Discretionary
+8/5/2019,1765.130005,AMZN,Consumer Discretionary
+8/6/2019,1787.829956,AMZN,Consumer Discretionary
+8/7/2019,1793.400024,AMZN,Consumer Discretionary
+8/8/2019,1832.890015,AMZN,Consumer Discretionary
+8/9/2019,1807.579956,AMZN,Consumer Discretionary
+8/12/2019,1784.920044,AMZN,Consumer Discretionary
+8/13/2019,1824.339966,AMZN,Consumer Discretionary
+8/14/2019,1762.959961,AMZN,Consumer Discretionary
+8/15/2019,1776.119995,AMZN,Consumer Discretionary
+8/16/2019,1792.569946,AMZN,Consumer Discretionary
+8/19/2019,1816.119995,AMZN,Consumer Discretionary
+8/20/2019,1801.380005,AMZN,Consumer Discretionary
+8/21/2019,1823.540039,AMZN,Consumer Discretionary
+8/22/2019,1804.660034,AMZN,Consumer Discretionary
+8/23/2019,1749.619995,AMZN,Consumer Discretionary
+8/26/2019,1768.869995,AMZN,Consumer Discretionary
+8/27/2019,1761.829956,AMZN,Consumer Discretionary
+8/28/2019,1764.25,AMZN,Consumer Discretionary
+8/29/2019,1786.400024,AMZN,Consumer Discretionary
+8/30/2019,1776.290039,AMZN,Consumer Discretionary
+9/3/2019,1789.839966,AMZN,Consumer Discretionary
+9/4/2019,1800.619995,AMZN,Consumer Discretionary
+9/5/2019,1840.719971,AMZN,Consumer Discretionary
+9/6/2019,1833.51001,AMZN,Consumer Discretionary
+9/9/2019,1831.349976,AMZN,Consumer Discretionary
+9/10/2019,1820.550049,AMZN,Consumer Discretionary
+9/11/2019,1822.98999,AMZN,Consumer Discretionary
+9/12/2019,1843.550049,AMZN,Consumer Discretionary
+9/13/2019,1839.339966,AMZN,Consumer Discretionary
+9/16/2019,1807.839966,AMZN,Consumer Discretionary
+9/17/2019,1822.550049,AMZN,Consumer Discretionary
+9/18/2019,1817.459961,AMZN,Consumer Discretionary
+9/19/2019,1821.5,AMZN,Consumer Discretionary
+9/20/2019,1794.160034,AMZN,Consumer Discretionary
+9/23/2019,1785.300049,AMZN,Consumer Discretionary
+9/24/2019,1741.609985,AMZN,Consumer Discretionary
+9/25/2019,1768.329956,AMZN,Consumer Discretionary
+9/26/2019,1739.839966,AMZN,Consumer Discretionary
+9/27/2019,1725.449951,AMZN,Consumer Discretionary
+9/30/2019,1735.910034,AMZN,Consumer Discretionary
+10/1/2019,1735.650024,AMZN,Consumer Discretionary
+10/2/2019,1713.22998,AMZN,Consumer Discretionary
+10/3/2019,1724.420044,AMZN,Consumer Discretionary
+10/4/2019,1739.650024,AMZN,Consumer Discretionary
+10/7/2019,1732.660034,AMZN,Consumer Discretionary
+10/8/2019,1705.51001,AMZN,Consumer Discretionary
+10/9/2019,1721.98999,AMZN,Consumer Discretionary
+10/10/2019,1720.26001,AMZN,Consumer Discretionary
+10/11/2019,1731.920044,AMZN,Consumer Discretionary
+10/14/2019,1736.430054,AMZN,Consumer Discretionary
+10/15/2019,1767.380005,AMZN,Consumer Discretionary
+10/16/2019,1777.430054,AMZN,Consumer Discretionary
+10/17/2019,1787.47998,AMZN,Consumer Discretionary
+10/18/2019,1757.51001,AMZN,Consumer Discretionary
+10/21/2019,1785.660034,AMZN,Consumer Discretionary
+10/22/2019,1765.72998,AMZN,Consumer Discretionary
+10/23/2019,1762.170044,AMZN,Consumer Discretionary
+10/24/2019,1780.780029,AMZN,Consumer Discretionary
+10/25/2019,1761.329956,AMZN,Consumer Discretionary
+10/28/2019,1777.079956,AMZN,Consumer Discretionary
+10/29/2019,1762.709961,AMZN,Consumer Discretionary
+10/30/2019,1779.98999,AMZN,Consumer Discretionary
+10/31/2019,1776.660034,AMZN,Consumer Discretionary
+11/1/2019,1791.439941,AMZN,Consumer Discretionary
+11/4/2019,1804.660034,AMZN,Consumer Discretionary
+11/5/2019,1801.709961,AMZN,Consumer Discretionary
+11/6/2019,1795.77002,AMZN,Consumer Discretionary
+11/7/2019,1788.199951,AMZN,Consumer Discretionary
+11/8/2019,1785.880005,AMZN,Consumer Discretionary
+11/11/2019,1771.650024,AMZN,Consumer Discretionary
+11/12/2019,1778,AMZN,Consumer Discretionary
+11/13/2019,1753.109985,AMZN,Consumer Discretionary
+11/14/2019,1754.599976,AMZN,Consumer Discretionary
+11/15/2019,1739.48999,AMZN,Consumer Discretionary
+11/18/2019,1752.530029,AMZN,Consumer Discretionary
+11/19/2019,1752.790039,AMZN,Consumer Discretionary
+11/20/2019,1745.530029,AMZN,Consumer Discretionary
+11/21/2019,1734.709961,AMZN,Consumer Discretionary
+11/22/2019,1745.719971,AMZN,Consumer Discretionary
+11/25/2019,1773.839966,AMZN,Consumer Discretionary
+11/26/2019,1796.939941,AMZN,Consumer Discretionary
+11/27/2019,1818.51001,AMZN,Consumer Discretionary
+11/29/2019,1800.800049,AMZN,Consumer Discretionary
+12/2/2019,1781.599976,AMZN,Consumer Discretionary
+12/3/2019,1769.959961,AMZN,Consumer Discretionary
+12/4/2019,1760.689941,AMZN,Consumer Discretionary
+12/5/2019,1740.47998,AMZN,Consumer Discretionary
+12/6/2019,1751.599976,AMZN,Consumer Discretionary
+12/9/2019,1749.51001,AMZN,Consumer Discretionary
+12/10/2019,1739.209961,AMZN,Consumer Discretionary
+12/11/2019,1748.719971,AMZN,Consumer Discretionary
+12/12/2019,1760.329956,AMZN,Consumer Discretionary
+12/13/2019,1760.939941,AMZN,Consumer Discretionary
+12/16/2019,1769.209961,AMZN,Consumer Discretionary
+12/17/2019,1790.660034,AMZN,Consumer Discretionary
+12/18/2019,1784.030029,AMZN,Consumer Discretionary
+12/19/2019,1792.280029,AMZN,Consumer Discretionary
+12/20/2019,1786.5,AMZN,Consumer Discretionary
+12/23/2019,1793,AMZN,Consumer Discretionary
+12/24/2019,1789.209961,AMZN,Consumer Discretionary
+12/26/2019,1868.77002,AMZN,Consumer Discretionary
+12/27/2019,1869.800049,AMZN,Consumer Discretionary
+12/30/2019,1846.890015,AMZN,Consumer Discretionary
+1/2/2019,88.769997,AWK,Utilities
+1/3/2019,89.120003,AWK,Utilities
+1/4/2019,89.790001,AWK,Utilities
+1/7/2019,88.839996,AWK,Utilities
+1/8/2019,90.139999,AWK,Utilities
+1/9/2019,88.989998,AWK,Utilities
+1/10/2019,90.760002,AWK,Utilities
+1/11/2019,90.639999,AWK,Utilities
+1/14/2019,90.43,AWK,Utilities
+1/15/2019,91.419998,AWK,Utilities
+1/16/2019,91.790001,AWK,Utilities
+1/17/2019,92.559998,AWK,Utilities
+1/18/2019,92.610001,AWK,Utilities
+1/22/2019,92.769997,AWK,Utilities
+1/23/2019,94.239998,AWK,Utilities
+1/24/2019,94.639999,AWK,Utilities
+1/25/2019,93.269997,AWK,Utilities
+1/28/2019,93.019997,AWK,Utilities
+1/29/2019,93.080002,AWK,Utilities
+1/30/2019,93.739998,AWK,Utilities
+1/31/2019,95.669998,AWK,Utilities
+2/1/2019,95.209999,AWK,Utilities
+2/4/2019,95.580002,AWK,Utilities
+2/5/2019,95.860001,AWK,Utilities
+2/6/2019,95.150002,AWK,Utilities
+2/7/2019,96.870003,AWK,Utilities
+2/8/2019,97.739998,AWK,Utilities
+2/11/2019,97.599998,AWK,Utilities
+2/12/2019,97.669998,AWK,Utilities
+2/13/2019,97.440002,AWK,Utilities
+2/14/2019,97.25,AWK,Utilities
+2/15/2019,98.050003,AWK,Utilities
+2/19/2019,98.699997,AWK,Utilities
+2/20/2019,98.660004,AWK,Utilities
+2/21/2019,100.379997,AWK,Utilities
+2/22/2019,100.980003,AWK,Utilities
+2/25/2019,100.879997,AWK,Utilities
+2/26/2019,101.040001,AWK,Utilities
+2/27/2019,101.040001,AWK,Utilities
+2/28/2019,101.620003,AWK,Utilities
+3/1/2019,101.440002,AWK,Utilities
+3/4/2019,101.709999,AWK,Utilities
+3/5/2019,101.269997,AWK,Utilities
+3/6/2019,101.059998,AWK,Utilities
+3/7/2019,101.650002,AWK,Utilities
+3/8/2019,102.529999,AWK,Utilities
+3/11/2019,104.029999,AWK,Utilities
+3/12/2019,104.919998,AWK,Utilities
+3/13/2019,105.110001,AWK,Utilities
+3/14/2019,104.989998,AWK,Utilities
+3/15/2019,105.809998,AWK,Utilities
+3/18/2019,105.129997,AWK,Utilities
+3/19/2019,104.349998,AWK,Utilities
+3/20/2019,104.690002,AWK,Utilities
+3/21/2019,106.220001,AWK,Utilities
+3/22/2019,106.779999,AWK,Utilities
+3/25/2019,106.690002,AWK,Utilities
+3/26/2019,107.199997,AWK,Utilities
+3/27/2019,105.870003,AWK,Utilities
+3/28/2019,104.32,AWK,Utilities
+3/29/2019,104.260002,AWK,Utilities
+4/1/2019,103.849998,AWK,Utilities
+4/2/2019,103.709999,AWK,Utilities
+4/3/2019,104.029999,AWK,Utilities
+4/4/2019,103.860001,AWK,Utilities
+4/5/2019,104.919998,AWK,Utilities
+4/8/2019,104.139999,AWK,Utilities
+4/9/2019,104.57,AWK,Utilities
+4/10/2019,104.029999,AWK,Utilities
+4/11/2019,104.32,AWK,Utilities
+4/12/2019,104.160004,AWK,Utilities
+4/15/2019,103.959999,AWK,Utilities
+4/16/2019,102.419998,AWK,Utilities
+4/17/2019,102.279999,AWK,Utilities
+4/18/2019,104.699997,AWK,Utilities
+4/22/2019,104.93,AWK,Utilities
+4/23/2019,104.800003,AWK,Utilities
+4/24/2019,105.839996,AWK,Utilities
+4/25/2019,106.529999,AWK,Utilities
+4/26/2019,106.879997,AWK,Utilities
+4/29/2019,106.419998,AWK,Utilities
+4/30/2019,108.190002,AWK,Utilities
+5/1/2019,107.099998,AWK,Utilities
+5/2/2019,106.68,AWK,Utilities
+5/3/2019,107.379997,AWK,Utilities
+5/6/2019,107.209999,AWK,Utilities
+5/7/2019,107.080002,AWK,Utilities
+5/8/2019,105.860001,AWK,Utilities
+5/9/2019,106.279999,AWK,Utilities
+5/10/2019,108.269997,AWK,Utilities
+5/13/2019,110.690002,AWK,Utilities
+5/14/2019,109.839996,AWK,Utilities
+5/15/2019,110.260002,AWK,Utilities
+5/16/2019,111.169998,AWK,Utilities
+5/17/2019,112.040001,AWK,Utilities
+5/20/2019,111.279999,AWK,Utilities
+5/21/2019,111.419998,AWK,Utilities
+5/22/2019,112.82,AWK,Utilities
+5/23/2019,113.32,AWK,Utilities
+5/24/2019,113.690002,AWK,Utilities
+5/28/2019,113.339996,AWK,Utilities
+5/29/2019,111.779999,AWK,Utilities
+5/30/2019,111.940002,AWK,Utilities
+5/31/2019,113.019997,AWK,Utilities
+6/3/2019,114.059998,AWK,Utilities
+6/4/2019,113.82,AWK,Utilities
+6/5/2019,116.489998,AWK,Utilities
+6/6/2019,117.349998,AWK,Utilities
+6/7/2019,116.290001,AWK,Utilities
+6/10/2019,115.839996,AWK,Utilities
+6/11/2019,115.379997,AWK,Utilities
+6/12/2019,117.089996,AWK,Utilities
+6/13/2019,116.68,AWK,Utilities
+6/14/2019,118.269997,AWK,Utilities
+6/17/2019,117.620003,AWK,Utilities
+6/18/2019,116.639999,AWK,Utilities
+6/19/2019,117.980003,AWK,Utilities
+6/20/2019,118.190002,AWK,Utilities
+6/21/2019,118.07,AWK,Utilities
+6/24/2019,118.400002,AWK,Utilities
+6/25/2019,117.18,AWK,Utilities
+6/26/2019,115.309998,AWK,Utilities
+6/27/2019,115.260002,AWK,Utilities
+6/28/2019,116,AWK,Utilities
+7/1/2019,115.730003,AWK,Utilities
+7/2/2019,117.279999,AWK,Utilities
+7/3/2019,118.43,AWK,Utilities
+7/5/2019,117.959999,AWK,Utilities
+7/8/2019,118.019997,AWK,Utilities
+7/9/2019,118.290001,AWK,Utilities
+7/10/2019,118.709999,AWK,Utilities
+7/11/2019,117.470001,AWK,Utilities
+7/12/2019,116.629997,AWK,Utilities
+7/15/2019,115.980003,AWK,Utilities
+7/16/2019,115.760002,AWK,Utilities
+7/17/2019,116.089996,AWK,Utilities
+7/18/2019,117.25,AWK,Utilities
+7/19/2019,114.980003,AWK,Utilities
+7/22/2019,115.230003,AWK,Utilities
+7/23/2019,114.470001,AWK,Utilities
+7/24/2019,114.010002,AWK,Utilities
+7/25/2019,113.860001,AWK,Utilities
+7/26/2019,115.089996,AWK,Utilities
+7/29/2019,115.309998,AWK,Utilities
+7/30/2019,115.110001,AWK,Utilities
+7/31/2019,114.779999,AWK,Utilities
+8/1/2019,117.019997,AWK,Utilities
+8/2/2019,117.290001,AWK,Utilities
+8/5/2019,115.379997,AWK,Utilities
+8/6/2019,117.419998,AWK,Utilities
+8/7/2019,118.449997,AWK,Utilities
+8/8/2019,119.410004,AWK,Utilities
+8/9/2019,120.550003,AWK,Utilities
+8/12/2019,122.510002,AWK,Utilities
+8/13/2019,121.830002,AWK,Utilities
+8/14/2019,121.199997,AWK,Utilities
+8/15/2019,124.5,AWK,Utilities
+8/16/2019,124.220001,AWK,Utilities
+8/19/2019,123.989998,AWK,Utilities
+8/20/2019,123.610001,AWK,Utilities
+8/21/2019,124.050003,AWK,Utilities
+8/22/2019,124.699997,AWK,Utilities
+8/23/2019,122.809998,AWK,Utilities
+8/26/2019,124.75,AWK,Utilities
+8/27/2019,125.099998,AWK,Utilities
+8/28/2019,126.040001,AWK,Utilities
+8/29/2019,126.900002,AWK,Utilities
+8/30/2019,127.32,AWK,Utilities
+9/3/2019,129.5,AWK,Utilities
+9/4/2019,128.75,AWK,Utilities
+9/5/2019,126.529999,AWK,Utilities
+9/6/2019,125.699997,AWK,Utilities
+9/9/2019,122.360001,AWK,Utilities
+9/10/2019,120.830002,AWK,Utilities
+9/11/2019,121.25,AWK,Utilities
+9/12/2019,121.760002,AWK,Utilities
+9/13/2019,121.220001,AWK,Utilities
+9/16/2019,120.980003,AWK,Utilities
+9/17/2019,121.760002,AWK,Utilities
+9/18/2019,121.519997,AWK,Utilities
+9/19/2019,122.379997,AWK,Utilities
+9/20/2019,122.830002,AWK,Utilities
+9/23/2019,122.580002,AWK,Utilities
+9/24/2019,124.870003,AWK,Utilities
+9/25/2019,124.57,AWK,Utilities
+9/26/2019,125.129997,AWK,Utilities
+9/27/2019,124.239998,AWK,Utilities
+9/30/2019,124.230003,AWK,Utilities
+10/1/2019,123.860001,AWK,Utilities
+10/2/2019,123.150002,AWK,Utilities
+10/3/2019,123.730003,AWK,Utilities
+10/4/2019,125.779999,AWK,Utilities
+10/7/2019,124.57,AWK,Utilities
+10/8/2019,123.879997,AWK,Utilities
+10/9/2019,124.870003,AWK,Utilities
+10/10/2019,125.050003,AWK,Utilities
+10/11/2019,123.690002,AWK,Utilities
+10/14/2019,121.730003,AWK,Utilities
+10/15/2019,120.800003,AWK,Utilities
+10/16/2019,121.629997,AWK,Utilities
+10/17/2019,122.419998,AWK,Utilities
+10/18/2019,122.410004,AWK,Utilities
+10/21/2019,122.300003,AWK,Utilities
+10/22/2019,122.389999,AWK,Utilities
+10/23/2019,121.940002,AWK,Utilities
+10/24/2019,122.309998,AWK,Utilities
+10/25/2019,121.110001,AWK,Utilities
+10/28/2019,119.559998,AWK,Utilities
+10/29/2019,119.589996,AWK,Utilities
+10/30/2019,120.970001,AWK,Utilities
+10/31/2019,123.269997,AWK,Utilities
+11/1/2019,122.779999,AWK,Utilities
+11/4/2019,120.050003,AWK,Utilities
+11/5/2019,120.089996,AWK,Utilities
+11/6/2019,121.589996,AWK,Utilities
+11/7/2019,118.150002,AWK,Utilities
+11/8/2019,116.300003,AWK,Utilities
+11/11/2019,115.589996,AWK,Utilities
+11/12/2019,115.379997,AWK,Utilities
+11/13/2019,116.93,AWK,Utilities
+11/14/2019,117.849998,AWK,Utilities
+11/15/2019,118.239998,AWK,Utilities
+11/18/2019,118.68,AWK,Utilities
+11/19/2019,119.129997,AWK,Utilities
+11/20/2019,120.57,AWK,Utilities
+11/21/2019,119.339996,AWK,Utilities
+11/22/2019,119.040001,AWK,Utilities
+11/25/2019,119.309998,AWK,Utilities
+11/26/2019,121.029999,AWK,Utilities
+11/27/2019,121.269997,AWK,Utilities
+11/29/2019,121.029999,AWK,Utilities
+12/2/2019,120.300003,AWK,Utilities
+12/3/2019,121.190002,AWK,Utilities
+12/4/2019,122.489998,AWK,Utilities
+12/5/2019,123.379997,AWK,Utilities
+12/6/2019,122.669998,AWK,Utilities
+12/9/2019,122.480003,AWK,Utilities
+12/10/2019,122.349998,AWK,Utilities
+12/11/2019,120.900002,AWK,Utilities
+12/12/2019,118.43,AWK,Utilities
+12/13/2019,119.199997,AWK,Utilities
+12/16/2019,120.900002,AWK,Utilities
+12/17/2019,120.900002,AWK,Utilities
+12/18/2019,121.230003,AWK,Utilities
+12/19/2019,121.660004,AWK,Utilities
+12/20/2019,122.720001,AWK,Utilities
+12/23/2019,121.389999,AWK,Utilities
+12/24/2019,121.620003,AWK,Utilities
+12/26/2019,121.879997,AWK,Utilities
+12/27/2019,122.959999,AWK,Utilities
+12/30/2019,123.050003,AWK,Utilities
+1/2/2019,350,Equinix,Real Estate
+1/3/2019,345.940002,Equinix,Real Estate
+1/4/2019,353.790009,Equinix,Real Estate
+1/7/2019,354.5,Equinix,Real Estate
+1/8/2019,361.859985,Equinix,Real Estate
+1/9/2019,357.320007,Equinix,Real Estate
+1/10/2019,370.679993,Equinix,Real Estate
+1/11/2019,371.429993,Equinix,Real Estate
+1/14/2019,376.579987,Equinix,Real Estate
+1/15/2019,382.980011,Equinix,Real Estate
+1/16/2019,381.109985,Equinix,Real Estate
+1/17/2019,381.829987,Equinix,Real Estate
+1/18/2019,374.670013,Equinix,Real Estate
+1/22/2019,371.01001,Equinix,Real Estate
+1/23/2019,365.26001,Equinix,Real Estate
+1/24/2019,371.279999,Equinix,Real Estate
+1/25/2019,369.440002,Equinix,Real Estate
+1/28/2019,377.109985,Equinix,Real Estate
+1/29/2019,379.290009,Equinix,Real Estate
+1/30/2019,383.01001,Equinix,Real Estate
+1/31/2019,394,Equinix,Real Estate
+2/1/2019,396.380005,Equinix,Real Estate
+2/4/2019,395.290009,Equinix,Real Estate
+2/5/2019,395.790009,Equinix,Real Estate
+2/6/2019,390.100006,Equinix,Real Estate
+2/7/2019,389.790009,Equinix,Real Estate
+2/8/2019,395.820007,Equinix,Real Estate
+2/11/2019,400.070007,Equinix,Real Estate
+2/12/2019,397.480011,Equinix,Real Estate
+2/13/2019,391.910004,Equinix,Real Estate
+2/14/2019,420.589996,Equinix,Real Estate
+2/15/2019,421.390015,Equinix,Real Estate
+2/19/2019,430.589996,Equinix,Real Estate
+2/20/2019,431.529999,Equinix,Real Estate
+2/21/2019,425.859985,Equinix,Real Estate
+2/22/2019,428.540009,Equinix,Real Estate
+2/25/2019,428.980011,Equinix,Real Estate
+2/26/2019,425.839996,Equinix,Real Estate
+2/27/2019,418.149994,Equinix,Real Estate
+2/28/2019,423.5,Equinix,Real Estate
+3/1/2019,432.790009,Equinix,Real Estate
+3/4/2019,426.980011,Equinix,Real Estate
+3/5/2019,426.920013,Equinix,Real Estate
+3/6/2019,424.660004,Equinix,Real Estate
+3/7/2019,426.75,Equinix,Real Estate
+3/8/2019,430.380005,Equinix,Real Estate
+3/11/2019,438.329987,Equinix,Real Estate
+3/12/2019,438.5,Equinix,Real Estate
+3/13/2019,438.869995,Equinix,Real Estate
+3/14/2019,440.480011,Equinix,Real Estate
+3/15/2019,441.609985,Equinix,Real Estate
+3/18/2019,444.100006,Equinix,Real Estate
+3/19/2019,443.549988,Equinix,Real Estate
+3/20/2019,448.079987,Equinix,Real Estate
+3/21/2019,458.290009,Equinix,Real Estate
+3/22/2019,451.5,Equinix,Real Estate
+3/25/2019,446.179993,Equinix,Real Estate
+3/26/2019,447.670013,Equinix,Real Estate
+3/27/2019,448.079987,Equinix,Real Estate
+3/28/2019,449.959991,Equinix,Real Estate
+3/29/2019,453.160004,Equinix,Real Estate
+4/1/2019,456.299988,Equinix,Real Estate
+4/2/2019,460.440002,Equinix,Real Estate
+4/3/2019,462.01001,Equinix,Real Estate
+4/4/2019,461.440002,Equinix,Real Estate
+4/5/2019,466.619995,Equinix,Real Estate
+4/8/2019,463.410004,Equinix,Real Estate
+4/9/2019,460.109985,Equinix,Real Estate
+4/10/2019,461.209991,Equinix,Real Estate
+4/11/2019,460.670013,Equinix,Real Estate
+4/12/2019,463.380005,Equinix,Real Estate
+4/15/2019,460,Equinix,Real Estate
+4/16/2019,452.660004,Equinix,Real Estate
+4/17/2019,447.519989,Equinix,Real Estate
+4/18/2019,446.440002,Equinix,Real Estate
+4/22/2019,447.230011,Equinix,Real Estate
+4/23/2019,450.209991,Equinix,Real Estate
+4/24/2019,453.459991,Equinix,Real Estate
+4/25/2019,453.890015,Equinix,Real Estate
+4/26/2019,453.049988,Equinix,Real Estate
+4/29/2019,448.809998,Equinix,Real Estate
+4/30/2019,454.700012,Equinix,Real Estate
+5/1/2019,450.01001,Equinix,Real Estate
+5/2/2019,465.01001,Equinix,Real Estate
+5/3/2019,476.98999,Equinix,Real Estate
+5/6/2019,478.529999,Equinix,Real Estate
+5/7/2019,474.929993,Equinix,Real Estate
+5/8/2019,478.980011,Equinix,Real Estate
+5/9/2019,476.589996,Equinix,Real Estate
+5/10/2019,479.820007,Equinix,Real Estate
+5/13/2019,476.23999,Equinix,Real Estate
+5/14/2019,484,Equinix,Real Estate
+5/15/2019,486.619995,Equinix,Real Estate
+5/16/2019,491.76001,Equinix,Real Estate
+5/17/2019,490.279999,Equinix,Real Estate
+5/20/2019,480.119995,Equinix,Real Estate
+5/21/2019,484.450012,Equinix,Real Estate
+5/22/2019,493.98999,Equinix,Real Estate
+5/23/2019,496.26001,Equinix,Real Estate
+5/24/2019,496.519989,Equinix,Real Estate
+5/28/2019,491.230011,Equinix,Real Estate
+5/29/2019,482.549988,Equinix,Real Estate
+5/30/2019,487.309998,Equinix,Real Estate
+5/31/2019,485.790009,Equinix,Real Estate
+6/3/2019,485.579987,Equinix,Real Estate
+6/4/2019,481.049988,Equinix,Real Estate
+6/5/2019,495.290009,Equinix,Real Estate
+6/6/2019,494.660004,Equinix,Real Estate
+6/7/2019,499.600006,Equinix,Real Estate
+6/10/2019,506.019989,Equinix,Real Estate
+6/11/2019,504.23999,Equinix,Real Estate
+6/12/2019,503.670013,Equinix,Real Estate
+6/13/2019,507.299988,Equinix,Real Estate
+6/14/2019,509.920013,Equinix,Real Estate
+6/17/2019,511.480011,Equinix,Real Estate
+6/18/2019,503.230011,Equinix,Real Estate
+6/19/2019,511.170013,Equinix,Real Estate
+6/20/2019,508.369995,Equinix,Real Estate
+6/21/2019,508.089996,Equinix,Real Estate
+6/24/2019,510.040009,Equinix,Real Estate
+6/25/2019,500.049988,Equinix,Real Estate
+6/26/2019,490.279999,Equinix,Real Estate
+6/27/2019,498.190002,Equinix,Real Estate
+6/28/2019,504.290009,Equinix,Real Estate
+7/1/2019,504.940002,Equinix,Real Estate
+7/2/2019,514.940002,Equinix,Real Estate
+7/3/2019,518.950012,Equinix,Real Estate
+7/5/2019,518.179993,Equinix,Real Estate
+7/8/2019,519.159973,Equinix,Real Estate
+7/9/2019,521.5,Equinix,Real Estate
+7/10/2019,527.159973,Equinix,Real Estate
+7/11/2019,523.880005,Equinix,Real Estate
+7/12/2019,518.01001,Equinix,Real Estate
+7/15/2019,516.98999,Equinix,Real Estate
+7/16/2019,514.219971,Equinix,Real Estate
+7/17/2019,512.179993,Equinix,Real Estate
+7/18/2019,512.169983,Equinix,Real Estate
+7/19/2019,506.609985,Equinix,Real Estate
+7/22/2019,506.399994,Equinix,Real Estate
+7/23/2019,507.329987,Equinix,Real Estate
+7/24/2019,508.320007,Equinix,Real Estate
+7/25/2019,490.480011,Equinix,Real Estate
+7/26/2019,488.809998,Equinix,Real Estate
+7/29/2019,486.579987,Equinix,Real Estate
+7/30/2019,498.820007,Equinix,Real Estate
+7/31/2019,502.100006,Equinix,Real Estate
+8/1/2019,522.75,Equinix,Real Estate
+8/2/2019,524.090027,Equinix,Real Estate
+8/5/2019,512.679993,Equinix,Real Estate
+8/6/2019,519.859985,Equinix,Real Estate
+8/7/2019,533.090027,Equinix,Real Estate
+8/8/2019,549.23999,Equinix,Real Estate
+8/9/2019,552.419983,Equinix,Real Estate
+8/12/2019,553.299988,Equinix,Real Estate
+8/13/2019,548.380005,Equinix,Real Estate
+8/14/2019,539.880005,Equinix,Real Estate
+8/15/2019,546.340027,Equinix,Real Estate
+8/16/2019,551.809998,Equinix,Real Estate
+8/19/2019,555.72998,Equinix,Real Estate
+8/20/2019,547,Equinix,Real Estate
+8/21/2019,552.099976,Equinix,Real Estate
+8/22/2019,554.419983,Equinix,Real Estate
+8/23/2019,549.419983,Equinix,Real Estate
+8/26/2019,558.679993,Equinix,Real Estate
+8/27/2019,557.52002,Equinix,Real Estate
+8/28/2019,553.530029,Equinix,Real Estate
+8/29/2019,557.719971,Equinix,Real Estate
+8/30/2019,556.280029,Equinix,Real Estate
+9/3/2019,565.909973,Equinix,Real Estate
+9/4/2019,558.48999,Equinix,Real Estate
+9/5/2019,551,Equinix,Real Estate
+9/6/2019,554.090027,Equinix,Real Estate
+9/9/2019,538.210022,Equinix,Real Estate
+9/10/2019,531.440002,Equinix,Real Estate
+9/11/2019,528.440002,Equinix,Real Estate
+9/12/2019,538.880005,Equinix,Real Estate
+9/13/2019,536.799988,Equinix,Real Estate
+9/16/2019,549.929993,Equinix,Real Estate
+9/17/2019,558.909973,Equinix,Real Estate
+9/18/2019,561,Equinix,Real Estate
+9/19/2019,569.030029,Equinix,Real Estate
+9/20/2019,566.450012,Equinix,Real Estate
+9/23/2019,581.710022,Equinix,Real Estate
+9/24/2019,572.039978,Equinix,Real Estate
+9/25/2019,579.25,Equinix,Real Estate
+9/26/2019,583.02002,Equinix,Real Estate
+9/27/2019,576.619995,Equinix,Real Estate
+9/30/2019,576.799988,Equinix,Real Estate
+10/1/2019,569.590027,Equinix,Real Estate
+10/2/2019,561.52002,Equinix,Real Estate
+10/3/2019,575.75,Equinix,Real Estate
+10/4/2019,581.650024,Equinix,Real Estate
+10/7/2019,577.309998,Equinix,Real Estate
+10/8/2019,569.5,Equinix,Real Estate
+10/9/2019,575,Equinix,Real Estate
+10/10/2019,572.200012,Equinix,Real Estate
+10/11/2019,566.609985,Equinix,Real Estate
+10/14/2019,567.5,Equinix,Real Estate
+10/15/2019,571.650024,Equinix,Real Estate
+10/16/2019,567.890015,Equinix,Real Estate
+10/17/2019,571.840027,Equinix,Real Estate
+10/18/2019,576.409973,Equinix,Real Estate
+10/21/2019,577.349976,Equinix,Real Estate
+10/22/2019,569.929993,Equinix,Real Estate
+10/23/2019,566.619995,Equinix,Real Estate
+10/24/2019,563.340027,Equinix,Real Estate
+10/25/2019,565.73999,Equinix,Real Estate
+10/28/2019,567.130005,Equinix,Real Estate
+10/29/2019,567.52002,Equinix,Real Estate
+10/30/2019,571.159973,Equinix,Real Estate
+10/31/2019,566.780029,Equinix,Real Estate
+11/1/2019,562.23999,Equinix,Real Estate
+11/4/2019,543.200012,Equinix,Real Estate
+11/5/2019,527.190002,Equinix,Real Estate
+11/6/2019,531.880005,Equinix,Real Estate
+11/7/2019,522.5,Equinix,Real Estate
+11/8/2019,530.309998,Equinix,Real Estate
+11/11/2019,535,Equinix,Real Estate
+11/12/2019,531.23999,Equinix,Real Estate
+11/13/2019,540.72998,Equinix,Real Estate
+11/14/2019,544.710022,Equinix,Real Estate
+11/15/2019,550.409973,Equinix,Real Estate
+11/18/2019,558.210022,Equinix,Real Estate
+11/19/2019,564.960022,Equinix,Real Estate
+11/20/2019,568.76001,Equinix,Real Estate
+11/21/2019,560.169983,Equinix,Real Estate
+11/22/2019,557.580017,Equinix,Real Estate
+11/25/2019,553.849976,Equinix,Real Estate
+11/26/2019,554.679993,Equinix,Real Estate
+11/27/2019,565.190002,Equinix,Real Estate
+11/29/2019,566.849976,Equinix,Real Estate
+12/2/2019,549.73999,Equinix,Real Estate
+12/3/2019,552.599976,Equinix,Real Estate
+12/4/2019,562.929993,Equinix,Real Estate
+12/5/2019,560.059998,Equinix,Real Estate
+12/6/2019,559.190002,Equinix,Real Estate
+12/9/2019,560.719971,Equinix,Real Estate
+12/10/2019,557.72998,Equinix,Real Estate
+12/11/2019,559.140015,Equinix,Real Estate
+12/12/2019,547.799988,Equinix,Real Estate
+12/13/2019,551.840027,Equinix,Real Estate
+12/16/2019,562.799988,Equinix,Real Estate
+12/17/2019,557.52002,Equinix,Real Estate
+12/18/2019,565.450012,Equinix,Real Estate
+12/19/2019,575.919983,Equinix,Real Estate
+12/20/2019,577.710022,Equinix,Real Estate
+12/23/2019,571.640015,Equinix,Real Estate
+12/24/2019,573.23999,Equinix,Real Estate
+12/26/2019,579.51001,Equinix,Real Estate
+12/27/2019,582.5,Equinix,Real Estate
+12/30/2019,580.23999,Equinix,Real Estate
+1/2/2019,114.879997,LLY,Health Care
+1/3/2019,111.309998,LLY,Health Care
+1/4/2019,114.660004,LLY,Health Care
+1/7/2019,115.279999,LLY,Health Care
+1/8/2019,116.339996,LLY,Health Care
+1/9/2019,117.209999,LLY,Health Care
+1/10/2019,115.940002,LLY,Health Care
+1/11/2019,116.18,LLY,Health Care
+1/14/2019,114.68,LLY,Health Care
+1/15/2019,117.089996,LLY,Health Care
+1/16/2019,116.800003,LLY,Health Care
+1/17/2019,119.160004,LLY,Health Care
+1/18/2019,116.589996,LLY,Health Care
+1/22/2019,117.089996,LLY,Health Care
+1/23/2019,118.790001,LLY,Health Care
+1/24/2019,114.989998,LLY,Health Care
+1/25/2019,114.970001,LLY,Health Care
+1/28/2019,115.029999,LLY,Health Care
+1/29/2019,115.709999,LLY,Health Care
+1/30/2019,116.940002,LLY,Health Care
+1/31/2019,119.860001,LLY,Health Care
+2/1/2019,120.889999,LLY,Health Care
+2/4/2019,120.169998,LLY,Health Care
+2/5/2019,120.43,LLY,Health Care
+2/6/2019,119.269997,LLY,Health Care
+2/7/2019,117.5,LLY,Health Care
+2/8/2019,119.599998,LLY,Health Care
+2/11/2019,118.010002,LLY,Health Care
+2/12/2019,119.489998,LLY,Health Care
+2/13/2019,119.650002,LLY,Health Care
+2/14/2019,120.75,LLY,Health Care
+2/15/2019,122.480003,LLY,Health Care
+2/19/2019,122.129997,LLY,Health Care
+2/20/2019,122.660004,LLY,Health Care
+2/21/2019,122.720001,LLY,Health Care
+2/22/2019,124,LLY,Health Care
+2/25/2019,123.889999,LLY,Health Care
+2/26/2019,124.669998,LLY,Health Care
+2/27/2019,125.68,LLY,Health Care
+2/28/2019,126.290001,LLY,Health Care
+3/1/2019,128.839996,LLY,Health Care
+3/4/2019,127.459999,LLY,Health Care
+3/5/2019,128.490005,LLY,Health Care
+3/6/2019,126.68,LLY,Health Care
+3/7/2019,126.339996,LLY,Health Care
+3/8/2019,126.699997,LLY,Health Care
+3/11/2019,123.5,LLY,Health Care
+3/12/2019,123.5,LLY,Health Care
+3/13/2019,124.309998,LLY,Health Care
+3/14/2019,123.080002,LLY,Health Care
+3/15/2019,123.940002,LLY,Health Care
+3/18/2019,125.239998,LLY,Health Care
+3/19/2019,126.589996,LLY,Health Care
+3/20/2019,128.160004,LLY,Health Care
+3/21/2019,128.309998,LLY,Health Care
+3/22/2019,128.300003,LLY,Health Care
+3/25/2019,129.869995,LLY,Health Care
+3/26/2019,131.020004,LLY,Health Care
+3/27/2019,128.770004,LLY,Health Care
+3/28/2019,128.949997,LLY,Health Care
+3/29/2019,129.759995,LLY,Health Care
+4/1/2019,129.050003,LLY,Health Care
+4/2/2019,129.320007,LLY,Health Care
+4/3/2019,127.050003,LLY,Health Care
+4/4/2019,125.610001,LLY,Health Care
+4/5/2019,126.989998,LLY,Health Care
+4/8/2019,127.160004,LLY,Health Care
+4/9/2019,127.239998,LLY,Health Care
+4/10/2019,127.190002,LLY,Health Care
+4/11/2019,125.150002,LLY,Health Care
+4/12/2019,123.059998,LLY,Health Care
+4/15/2019,124.080002,LLY,Health Care
+4/16/2019,119.959999,LLY,Health Care
+4/17/2019,116.5,LLY,Health Care
+4/18/2019,115.199997,LLY,Health Care
+4/22/2019,115.470001,LLY,Health Care
+4/23/2019,117.489998,LLY,Health Care
+4/24/2019,118,LLY,Health Care
+4/25/2019,118.230003,LLY,Health Care
+4/26/2019,119.870003,LLY,Health Care
+4/29/2019,119.599998,LLY,Health Care
+4/30/2019,117.040001,LLY,Health Care
+5/1/2019,118.18,LLY,Health Care
+5/2/2019,118.459999,LLY,Health Care
+5/3/2019,116.910004,LLY,Health Care
+5/6/2019,116.650002,LLY,Health Care
+5/7/2019,114.940002,LLY,Health Care
+5/8/2019,116.25,LLY,Health Care
+5/9/2019,115.800003,LLY,Health Care
+5/10/2019,116.220001,LLY,Health Care
+5/13/2019,114.370003,LLY,Health Care
+5/14/2019,114.940002,LLY,Health Care
+5/15/2019,115.620003,LLY,Health Care
+5/16/2019,116.730003,LLY,Health Care
+5/17/2019,116.010002,LLY,Health Care
+5/20/2019,116.230003,LLY,Health Care
+5/21/2019,116.580002,LLY,Health Care
+5/22/2019,117.980003,LLY,Health Care
+5/23/2019,116.809998,LLY,Health Care
+5/24/2019,116.790001,LLY,Health Care
+5/28/2019,115.760002,LLY,Health Care
+5/29/2019,115.489998,LLY,Health Care
+5/30/2019,115.900002,LLY,Health Care
+5/31/2019,115.940002,LLY,Health Care
+6/3/2019,116.769997,LLY,Health Care
+6/4/2019,117.559998,LLY,Health Care
+6/5/2019,117.019997,LLY,Health Care
+6/6/2019,117.5,LLY,Health Care
+6/7/2019,118.349998,LLY,Health Care
+6/10/2019,113.93,LLY,Health Care
+6/11/2019,112.209999,LLY,Health Care
+6/12/2019,115.239998,LLY,Health Care
+6/13/2019,111.82,LLY,Health Care
+6/14/2019,111.739998,LLY,Health Care
+6/17/2019,113.400002,LLY,Health Care
+6/18/2019,114.650002,LLY,Health Care
+6/19/2019,115.230003,LLY,Health Care
+6/20/2019,115.559998,LLY,Health Care
+6/21/2019,115.489998,LLY,Health Care
+6/24/2019,115.629997,LLY,Health Care
+6/25/2019,115.360001,LLY,Health Care
+6/26/2019,111.339996,LLY,Health Care
+6/27/2019,111.470001,LLY,Health Care
+6/28/2019,110.790001,LLY,Health Care
+7/1/2019,112.739998,LLY,Health Care
+7/2/2019,114.199997,LLY,Health Care
+7/3/2019,114.419998,LLY,Health Care
+7/5/2019,112.82,LLY,Health Care
+7/8/2019,111.519997,LLY,Health Care
+7/9/2019,113.080002,LLY,Health Care
+7/10/2019,114.529999,LLY,Health Care
+7/11/2019,109.82,LLY,Health Care
+7/12/2019,108.290001,LLY,Health Care
+7/15/2019,108.470001,LLY,Health Care
+7/16/2019,108.82,LLY,Health Care
+7/17/2019,107.089996,LLY,Health Care
+7/18/2019,108.339996,LLY,Health Care
+7/19/2019,106.790001,LLY,Health Care
+7/22/2019,107.269997,LLY,Health Care
+7/23/2019,108.220001,LLY,Health Care
+7/24/2019,108.519997,LLY,Health Care
+7/25/2019,107.82,LLY,Health Care
+7/26/2019,108.269997,LLY,Health Care
+7/29/2019,108.720001,LLY,Health Care
+7/30/2019,108.690002,LLY,Health Care
+7/31/2019,108.949997,LLY,Health Care
+8/1/2019,110.510002,LLY,Health Care
+8/2/2019,112.419998,LLY,Health Care
+8/5/2019,108.709999,LLY,Health Care
+8/6/2019,111.400002,LLY,Health Care
+8/7/2019,111.120003,LLY,Health Care
+8/8/2019,113.970001,LLY,Health Care
+8/9/2019,113.769997,LLY,Health Care
+8/12/2019,113.599998,LLY,Health Care
+8/13/2019,115.699997,LLY,Health Care
+8/14/2019,110.290001,LLY,Health Care
+8/15/2019,110.230003,LLY,Health Care
+8/16/2019,110.519997,LLY,Health Care
+8/19/2019,112.529999,LLY,Health Care
+8/20/2019,111.010002,LLY,Health Care
+8/21/2019,111.459999,LLY,Health Care
+8/22/2019,111.610001,LLY,Health Care
+8/23/2019,109.510002,LLY,Health Care
+8/26/2019,111.779999,LLY,Health Care
+8/27/2019,110.730003,LLY,Health Care
+8/28/2019,110.970001,LLY,Health Care
+8/29/2019,112.25,LLY,Health Care
+8/30/2019,112.970001,LLY,Health Care
+9/3/2019,113.959999,LLY,Health Care
+9/4/2019,113.25,LLY,Health Care
+9/5/2019,114.599998,LLY,Health Care
+9/6/2019,114.050003,LLY,Health Care
+9/9/2019,111.07,LLY,Health Care
+9/10/2019,111.099998,LLY,Health Care
+9/11/2019,111.690002,LLY,Health Care
+9/12/2019,111.470001,LLY,Health Care
+9/13/2019,110.889999,LLY,Health Care
+9/16/2019,110.129997,LLY,Health Care
+9/17/2019,111.120003,LLY,Health Care
+9/18/2019,112.720001,LLY,Health Care
+9/19/2019,114.349998,LLY,Health Care
+9/20/2019,116.160004,LLY,Health Care
+9/23/2019,114.18,LLY,Health Care
+9/24/2019,113.25,LLY,Health Care
+9/25/2019,111.389999,LLY,Health Care
+9/26/2019,111.82,LLY,Health Care
+9/27/2019,112.370003,LLY,Health Care
+9/30/2019,111.830002,LLY,Health Care
+10/1/2019,110.959999,LLY,Health Care
+10/2/2019,107,LLY,Health Care
+10/3/2019,107.290001,LLY,Health Care
+10/4/2019,108.199997,LLY,Health Care
+10/7/2019,107.830002,LLY,Health Care
+10/8/2019,107.190002,LLY,Health Care
+10/9/2019,107.300003,LLY,Health Care
+10/10/2019,106.919998,LLY,Health Care
+10/11/2019,108.360001,LLY,Health Care
+10/14/2019,107.900002,LLY,Health Care
+10/15/2019,109.699997,LLY,Health Care
+10/16/2019,107.949997,LLY,Health Care
+10/17/2019,108.459999,LLY,Health Care
+10/18/2019,108.639999,LLY,Health Care
+10/21/2019,107.910004,LLY,Health Care
+10/22/2019,109.839996,LLY,Health Care
+10/23/2019,107.400002,LLY,Health Care
+10/24/2019,107.839996,LLY,Health Care
+10/25/2019,110.199997,LLY,Health Care
+10/28/2019,112.989998,LLY,Health Care
+10/29/2019,111.669998,LLY,Health Care
+10/30/2019,112.720001,LLY,Health Care
+10/31/2019,113.949997,LLY,Health Care
+11/1/2019,112.510002,LLY,Health Care
+11/4/2019,113.110001,LLY,Health Care
+11/5/2019,111.25,LLY,Health Care
+11/6/2019,113.82,LLY,Health Care
+11/7/2019,112.769997,LLY,Health Care
+11/8/2019,113.529999,LLY,Health Care
+11/11/2019,112.800003,LLY,Health Care
+11/12/2019,113.169998,LLY,Health Care
+11/13/2019,112.790001,LLY,Health Care
+11/14/2019,111.389999,LLY,Health Care
+11/15/2019,113.190002,LLY,Health Care
+11/18/2019,114.07,LLY,Health Care
+11/19/2019,115.099998,LLY,Health Care
+11/20/2019,114.610001,LLY,Health Care
+11/21/2019,114.75,LLY,Health Care
+11/22/2019,116.199997,LLY,Health Care
+11/25/2019,117.470001,LLY,Health Care
+11/26/2019,117.089996,LLY,Health Care
+11/27/2019,117.440002,LLY,Health Care
+11/29/2019,117.349998,LLY,Health Care
+12/2/2019,116.739998,LLY,Health Care
+12/3/2019,117.610001,LLY,Health Care
+12/4/2019,118.669998,LLY,Health Care
+12/5/2019,119.769997,LLY,Health Care
+12/6/2019,119.639999,LLY,Health Care
+12/9/2019,120.239998,LLY,Health Care
+12/10/2019,120.650002,LLY,Health Care
+12/11/2019,120.779999,LLY,Health Care
+12/12/2019,121.699997,LLY,Health Care
+12/13/2019,121.529999,LLY,Health Care
+12/16/2019,122.849998,LLY,Health Care
+12/17/2019,125.330002,LLY,Health Care
+12/18/2019,129.479996,LLY,Health Care
+12/19/2019,130.850006,LLY,Health Care
+12/20/2019,132.429993,LLY,Health Care
+12/23/2019,131.149994,LLY,Health Care
+12/24/2019,131.110001,LLY,Health Care
+12/26/2019,131.139999,LLY,Health Care
+12/27/2019,131.520004,LLY,Health Care
+12/30/2019,131.300003,LLY,Health Care
+1/2/2019,29.18,MOS,Materials
+1/3/2019,28.450001,MOS,Materials
+1/4/2019,30.389999,MOS,Materials
+1/7/2019,30.620001,MOS,Materials
+1/8/2019,31.360001,MOS,Materials
+1/9/2019,31.35,MOS,Materials
+1/10/2019,31.57,MOS,Materials
+1/11/2019,31.639999,MOS,Materials
+1/14/2019,31.379999,MOS,Materials
+1/15/2019,31.4,MOS,Materials
+1/16/2019,31.49,MOS,Materials
+1/17/2019,31.959999,MOS,Materials
+1/18/2019,32.200001,MOS,Materials
+1/22/2019,30.969999,MOS,Materials
+1/23/2019,31.16,MOS,Materials
+1/24/2019,31.01,MOS,Materials
+1/25/2019,31.889999,MOS,Materials
+1/28/2019,31.59,MOS,Materials
+1/29/2019,31.780001,MOS,Materials
+1/30/2019,31.91,MOS,Materials
+1/31/2019,32.279999,MOS,Materials
+2/1/2019,32.599998,MOS,Materials
+2/4/2019,31.950001,MOS,Materials
+2/5/2019,32.200001,MOS,Materials
+2/6/2019,32.459999,MOS,Materials
+2/7/2019,31.4,MOS,Materials
+2/8/2019,31.190001,MOS,Materials
+2/11/2019,30.92,MOS,Materials
+2/12/2019,31.889999,MOS,Materials
+2/13/2019,32.060001,MOS,Materials
+2/14/2019,31.940001,MOS,Materials
+2/15/2019,32.110001,MOS,Materials
+2/19/2019,32.279999,MOS,Materials
+2/20/2019,33.48,MOS,Materials
+2/21/2019,33.169998,MOS,Materials
+2/22/2019,32.299999,MOS,Materials
+2/25/2019,32.77,MOS,Materials
+2/26/2019,31.440001,MOS,Materials
+2/27/2019,32.169998,MOS,Materials
+2/28/2019,31.27,MOS,Materials
+3/1/2019,31,MOS,Materials
+3/4/2019,30.82,MOS,Materials
+3/5/2019,29.889999,MOS,Materials
+3/6/2019,29.23,MOS,Materials
+3/7/2019,27.92,MOS,Materials
+3/8/2019,28.02,MOS,Materials
+3/11/2019,28.709999,MOS,Materials
+3/12/2019,28.67,MOS,Materials
+3/13/2019,28.75,MOS,Materials
+3/14/2019,28.379999,MOS,Materials
+3/15/2019,28.709999,MOS,Materials
+3/18/2019,28.639999,MOS,Materials
+3/19/2019,28.549999,MOS,Materials
+3/20/2019,28.18,MOS,Materials
+3/21/2019,28.299999,MOS,Materials
+3/22/2019,26.85,MOS,Materials
+3/25/2019,26.93,MOS,Materials
+3/26/2019,26.42,MOS,Materials
+3/27/2019,26.6,MOS,Materials
+3/28/2019,27.17,MOS,Materials
+3/29/2019,27.309999,MOS,Materials
+4/1/2019,27.84,MOS,Materials
+4/2/2019,27.51,MOS,Materials
+4/3/2019,27.360001,MOS,Materials
+4/4/2019,27.719999,MOS,Materials
+4/5/2019,27.92,MOS,Materials
+4/8/2019,27.85,MOS,Materials
+4/9/2019,27.440001,MOS,Materials
+4/10/2019,27.360001,MOS,Materials
+4/11/2019,27,MOS,Materials
+4/12/2019,26.799999,MOS,Materials
+4/15/2019,26.629999,MOS,Materials
+4/16/2019,26.84,MOS,Materials
+4/17/2019,26.9,MOS,Materials
+4/18/2019,27.07,MOS,Materials
+4/22/2019,27.16,MOS,Materials
+4/23/2019,26.83,MOS,Materials
+4/24/2019,26.32,MOS,Materials
+4/25/2019,26.049999,MOS,Materials
+4/26/2019,26.18,MOS,Materials
+4/29/2019,26.129999,MOS,Materials
+4/30/2019,26.110001,MOS,Materials
+5/1/2019,25.809999,MOS,Materials
+5/2/2019,25.25,MOS,Materials
+5/3/2019,25.620001,MOS,Materials
+5/6/2019,25.27,MOS,Materials
+5/7/2019,23.25,MOS,Materials
+5/8/2019,23.93,MOS,Materials
+5/9/2019,23.65,MOS,Materials
+5/10/2019,23.9,MOS,Materials
+5/13/2019,22.91,MOS,Materials
+5/14/2019,22.809999,MOS,Materials
+5/15/2019,22.82,MOS,Materials
+5/16/2019,23.16,MOS,Materials
+5/17/2019,22.799999,MOS,Materials
+5/20/2019,22.48,MOS,Materials
+5/21/2019,22.85,MOS,Materials
+5/22/2019,22.34,MOS,Materials
+5/23/2019,21.620001,MOS,Materials
+5/24/2019,21.6,MOS,Materials
+5/28/2019,21.32,MOS,Materials
+5/29/2019,21.4,MOS,Materials
+5/30/2019,21.27,MOS,Materials
+5/31/2019,21.469999,MOS,Materials
+6/3/2019,22.030001,MOS,Materials
+6/4/2019,22.719999,MOS,Materials
+6/5/2019,22.25,MOS,Materials
+6/6/2019,22.459999,MOS,Materials
+6/7/2019,22.15,MOS,Materials
+6/10/2019,22.25,MOS,Materials
+6/11/2019,22.389999,MOS,Materials
+6/12/2019,22.66,MOS,Materials
+6/13/2019,22.84,MOS,Materials
+6/14/2019,22.360001,MOS,Materials
+6/17/2019,23.280001,MOS,Materials
+6/18/2019,24.059999,MOS,Materials
+6/19/2019,23.469999,MOS,Materials
+6/20/2019,23.629999,MOS,Materials
+6/21/2019,23.42,MOS,Materials
+6/24/2019,23.43,MOS,Materials
+6/25/2019,24.16,MOS,Materials
+6/26/2019,24.139999,MOS,Materials
+6/27/2019,24.389999,MOS,Materials
+6/28/2019,25.030001,MOS,Materials
+7/1/2019,25.27,MOS,Materials
+7/2/2019,24.65,MOS,Materials
+7/3/2019,24.76,MOS,Materials
+7/5/2019,24.799999,MOS,Materials
+7/8/2019,24.049999,MOS,Materials
+7/9/2019,23.33,MOS,Materials
+7/10/2019,23.08,MOS,Materials
+7/11/2019,22.49,MOS,Materials
+7/12/2019,23,MOS,Materials
+7/15/2019,23.370001,MOS,Materials
+7/16/2019,23.709999,MOS,Materials
+7/17/2019,23.860001,MOS,Materials
+7/18/2019,23.83,MOS,Materials
+7/19/2019,24.219999,MOS,Materials
+7/22/2019,24.25,MOS,Materials
+7/23/2019,24.790001,MOS,Materials
+7/24/2019,24.83,MOS,Materials
+7/25/2019,24.25,MOS,Materials
+7/26/2019,24.309999,MOS,Materials
+7/29/2019,23.84,MOS,Materials
+7/30/2019,25.25,MOS,Materials
+7/31/2019,25.190001,MOS,Materials
+8/1/2019,25.08,MOS,Materials
+8/2/2019,24.389999,MOS,Materials
+8/5/2019,23.6,MOS,Materials
+8/6/2019,22.02,MOS,Materials
+8/7/2019,22.719999,MOS,Materials
+8/8/2019,23.07,MOS,Materials
+8/9/2019,22.6,MOS,Materials
+8/12/2019,20.76,MOS,Materials
+8/13/2019,20.610001,MOS,Materials
+8/14/2019,19.639999,MOS,Materials
+8/15/2019,19.290001,MOS,Materials
+8/16/2019,19.74,MOS,Materials
+8/19/2019,19.98,MOS,Materials
+8/20/2019,19.370001,MOS,Materials
+8/21/2019,19.07,MOS,Materials
+8/22/2019,19.07,MOS,Materials
+8/23/2019,18.01,MOS,Materials
+8/26/2019,17.959999,MOS,Materials
+8/27/2019,17.66,MOS,Materials
+8/28/2019,17.860001,MOS,Materials
+8/29/2019,18.370001,MOS,Materials
+8/30/2019,18.389999,MOS,Materials
+9/3/2019,17.92,MOS,Materials
+9/4/2019,18.16,MOS,Materials
+9/5/2019,19.379999,MOS,Materials
+9/6/2019,19.540001,MOS,Materials
+9/9/2019,20.18,MOS,Materials
+9/10/2019,21.379999,MOS,Materials
+9/11/2019,21.99,MOS,Materials
+9/12/2019,21.98,MOS,Materials
+9/13/2019,22.65,MOS,Materials
+9/16/2019,22.969999,MOS,Materials
+9/17/2019,21.809999,MOS,Materials
+9/18/2019,21.57,MOS,Materials
+9/19/2019,20.99,MOS,Materials
+9/20/2019,20.690001,MOS,Materials
+9/23/2019,20.889999,MOS,Materials
+9/24/2019,20.049999,MOS,Materials
+9/25/2019,20.549999,MOS,Materials
+9/26/2019,19.950001,MOS,Materials
+9/27/2019,20.26,MOS,Materials
+9/30/2019,20.5,MOS,Materials
+10/1/2019,20.209999,MOS,Materials
+10/2/2019,20.07,MOS,Materials
+10/3/2019,19.73,MOS,Materials
+10/4/2019,19.389999,MOS,Materials
+10/7/2019,19.200001,MOS,Materials
+10/8/2019,18.549999,MOS,Materials
+10/9/2019,18.82,MOS,Materials
+10/10/2019,19.34,MOS,Materials
+10/11/2019,20.719999,MOS,Materials
+10/14/2019,20.059999,MOS,Materials
+10/15/2019,20.17,MOS,Materials
+10/16/2019,20.059999,MOS,Materials
+10/17/2019,19.639999,MOS,Materials
+10/18/2019,19.549999,MOS,Materials
+10/21/2019,19.469999,MOS,Materials
+10/22/2019,19.68,MOS,Materials
+10/23/2019,20.17,MOS,Materials
+10/24/2019,19.92,MOS,Materials
+10/25/2019,20.540001,MOS,Materials
+10/28/2019,20.58,MOS,Materials
+10/29/2019,20.610001,MOS,Materials
+10/30/2019,20.18,MOS,Materials
+10/31/2019,19.879999,MOS,Materials
+11/1/2019,20.66,MOS,Materials
+11/4/2019,21.34,MOS,Materials
+11/5/2019,21.65,MOS,Materials
+11/6/2019,20.68,MOS,Materials
+11/7/2019,20.74,MOS,Materials
+11/8/2019,20.809999,MOS,Materials
+11/11/2019,20.93,MOS,Materials
+11/12/2019,20.93,MOS,Materials
+11/13/2019,19.68,MOS,Materials
+11/14/2019,20.290001,MOS,Materials
+11/15/2019,19.75,MOS,Materials
+11/18/2019,18.950001,MOS,Materials
+11/19/2019,18.809999,MOS,Materials
+11/20/2019,18.129999,MOS,Materials
+11/21/2019,18.02,MOS,Materials
+11/22/2019,18.16,MOS,Materials
+11/25/2019,18.639999,MOS,Materials
+11/26/2019,18.75,MOS,Materials
+11/27/2019,19,MOS,Materials
+11/29/2019,19.049999,MOS,Materials
+12/2/2019,18.99,MOS,Materials
+12/3/2019,18.43,MOS,Materials
+12/4/2019,18.370001,MOS,Materials
+12/5/2019,18.549999,MOS,Materials
+12/6/2019,19.08,MOS,Materials
+12/9/2019,18.74,MOS,Materials
+12/10/2019,18.25,MOS,Materials
+12/11/2019,18.219999,MOS,Materials
+12/12/2019,18.959999,MOS,Materials
+12/13/2019,18.629999,MOS,Materials
+12/16/2019,19.48,MOS,Materials
+12/17/2019,20.15,MOS,Materials
+12/18/2019,20.860001,MOS,Materials
+12/19/2019,20.6,MOS,Materials
+12/20/2019,21.709999,MOS,Materials
+12/23/2019,21.540001,MOS,Materials
+12/24/2019,21.450001,MOS,Materials
+12/26/2019,21.66,MOS,Materials
+12/27/2019,21.219999,MOS,Materials
+12/30/2019,21.030001,MOS,Materials
+1/2/2019,14.72,MRO,Energy
+1/3/2019,14.62,MRO,Energy
+1/4/2019,15.41,MRO,Energy
+1/7/2019,15.62,MRO,Energy
+1/8/2019,15.48,MRO,Energy
+1/9/2019,16.07,MRO,Energy
+1/10/2019,16.35,MRO,Energy
+1/11/2019,16.110001,MRO,Energy
+1/14/2019,15.83,MRO,Energy
+1/15/2019,15.83,MRO,Energy
+1/16/2019,15.54,MRO,Energy
+1/17/2019,15.79,MRO,Energy
+1/18/2019,16.1,MRO,Energy
+1/22/2019,15.69,MRO,Energy
+1/23/2019,15.56,MRO,Energy
+1/24/2019,15.8,MRO,Energy
+1/25/2019,15.9,MRO,Energy
+1/28/2019,15.83,MRO,Energy
+1/29/2019,15.91,MRO,Energy
+1/30/2019,16.02,MRO,Energy
+1/31/2019,15.79,MRO,Energy
+2/1/2019,16,MRO,Energy
+2/4/2019,16.15,MRO,Energy
+2/5/2019,15.94,MRO,Energy
+2/6/2019,15.91,MRO,Energy
+2/7/2019,15.27,MRO,Energy
+2/8/2019,15.13,MRO,Energy
+2/11/2019,15.27,MRO,Energy
+2/12/2019,15.45,MRO,Energy
+2/13/2019,15.55,MRO,Energy
+2/14/2019,16.91,MRO,Energy
+2/15/2019,17.08,MRO,Energy
+2/19/2019,17.030001,MRO,Energy
+2/20/2019,17.08,MRO,Energy
+2/21/2019,16.68,MRO,Energy
+2/22/2019,16.889999,MRO,Energy
+2/25/2019,16.67,MRO,Energy
+2/26/2019,16.52,MRO,Energy
+2/27/2019,16.790001,MRO,Energy
+2/28/2019,16.6,MRO,Energy
+3/1/2019,17.08,MRO,Energy
+3/4/2019,17.280001,MRO,Energy
+3/5/2019,17.27,MRO,Energy
+3/6/2019,16.860001,MRO,Energy
+3/7/2019,16.860001,MRO,Energy
+3/8/2019,16.27,MRO,Energy
+3/11/2019,16.57,MRO,Energy
+3/12/2019,16.9,MRO,Energy
+3/13/2019,17.32,MRO,Energy
+3/14/2019,17.26,MRO,Energy
+3/15/2019,17.27,MRO,Energy
+3/18/2019,17.389999,MRO,Energy
+3/19/2019,17.120001,MRO,Energy
+3/20/2019,17.6,MRO,Energy
+3/21/2019,17.690001,MRO,Energy
+3/22/2019,16.68,MRO,Energy
+3/25/2019,16.709999,MRO,Energy
+3/26/2019,17.110001,MRO,Energy
+3/27/2019,17.059999,MRO,Energy
+3/28/2019,16.82,MRO,Energy
+3/29/2019,16.709999,MRO,Energy
+4/1/2019,17.389999,MRO,Energy
+4/2/2019,17.129999,MRO,Energy
+4/3/2019,16.93,MRO,Energy
+4/4/2019,17.139999,MRO,Energy
+4/5/2019,17.700001,MRO,Energy
+4/8/2019,17.6,MRO,Energy
+4/9/2019,17.26,MRO,Energy
+4/10/2019,17.450001,MRO,Energy
+4/11/2019,17.190001,MRO,Energy
+4/12/2019,17.76,MRO,Energy
+4/15/2019,17.379999,MRO,Energy
+4/16/2019,17.469999,MRO,Energy
+4/17/2019,17.74,MRO,Energy
+4/18/2019,17.620001,MRO,Energy
+4/22/2019,18.780001,MRO,Energy
+4/23/2019,18.68,MRO,Energy
+4/24/2019,18.15,MRO,Energy
+4/25/2019,17.93,MRO,Energy
+4/26/2019,17.379999,MRO,Energy
+4/29/2019,17.15,MRO,Energy
+4/30/2019,17.040001,MRO,Energy
+5/1/2019,16.530001,MRO,Energy
+5/2/2019,15.52,MRO,Energy
+5/3/2019,15.68,MRO,Energy
+5/6/2019,15.77,MRO,Energy
+5/7/2019,15.51,MRO,Energy
+5/8/2019,15.56,MRO,Energy
+5/9/2019,15.27,MRO,Energy
+5/10/2019,15.26,MRO,Energy
+5/13/2019,15.03,MRO,Energy
+5/14/2019,15.46,MRO,Energy
+5/15/2019,15.43,MRO,Energy
+5/16/2019,15.71,MRO,Energy
+5/17/2019,15.47,MRO,Energy
+5/20/2019,15.54,MRO,Energy
+5/21/2019,15.84,MRO,Energy
+5/22/2019,15.43,MRO,Energy
+5/23/2019,14.56,MRO,Energy
+5/24/2019,14.43,MRO,Energy
+5/28/2019,14.33,MRO,Energy
+5/29/2019,14.09,MRO,Energy
+5/30/2019,13.62,MRO,Energy
+5/31/2019,13.15,MRO,Energy
+6/3/2019,13.33,MRO,Energy
+6/4/2019,13.45,MRO,Energy
+6/5/2019,13.19,MRO,Energy
+6/6/2019,13.25,MRO,Energy
+6/7/2019,13.31,MRO,Energy
+6/10/2019,13.45,MRO,Energy
+6/11/2019,13.41,MRO,Energy
+6/12/2019,13.02,MRO,Energy
+6/13/2019,13.28,MRO,Energy
+6/14/2019,12.98,MRO,Energy
+6/17/2019,13.33,MRO,Energy
+6/18/2019,13.67,MRO,Energy
+6/19/2019,13.63,MRO,Energy
+6/20/2019,14.11,MRO,Energy
+6/21/2019,14.05,MRO,Energy
+6/24/2019,13.93,MRO,Energy
+6/25/2019,13.9,MRO,Energy
+6/26/2019,14.39,MRO,Energy
+6/27/2019,14.2,MRO,Energy
+6/28/2019,14.21,MRO,Energy
+7/1/2019,14.25,MRO,Energy
+7/2/2019,13.55,MRO,Energy
+7/3/2019,13.66,MRO,Energy
+7/5/2019,13.76,MRO,Energy
+7/8/2019,13.52,MRO,Energy
+7/9/2019,13.54,MRO,Energy
+7/10/2019,13.9,MRO,Energy
+7/11/2019,13.65,MRO,Energy
+7/12/2019,13.92,MRO,Energy
+7/15/2019,13.48,MRO,Energy
+7/16/2019,13.32,MRO,Energy
+7/17/2019,13.22,MRO,Energy
+7/18/2019,13.38,MRO,Energy
+7/19/2019,13.66,MRO,Energy
+7/22/2019,13.67,MRO,Energy
+7/23/2019,13.76,MRO,Energy
+7/24/2019,13.97,MRO,Energy
+7/25/2019,13.75,MRO,Energy
+7/26/2019,13.75,MRO,Energy
+7/29/2019,13.5,MRO,Energy
+7/30/2019,14.13,MRO,Energy
+7/31/2019,14.07,MRO,Energy
+8/1/2019,13.53,MRO,Energy
+8/2/2019,13.28,MRO,Energy
+8/5/2019,12.5,MRO,Energy
+8/6/2019,12.16,MRO,Energy
+8/7/2019,12.05,MRO,Energy
+8/8/2019,12.86,MRO,Energy
+8/9/2019,12.87,MRO,Energy
+8/12/2019,12.74,MRO,Energy
+8/13/2019,12.95,MRO,Energy
+8/14/2019,12.3,MRO,Energy
+8/15/2019,12.02,MRO,Energy
+8/16/2019,12.45,MRO,Energy
+8/19/2019,12.88,MRO,Energy
+8/20/2019,12.62,MRO,Energy
+8/21/2019,12.42,MRO,Energy
+8/22/2019,12.26,MRO,Energy
+8/23/2019,11.75,MRO,Energy
+8/26/2019,11.63,MRO,Energy
+8/27/2019,11.53,MRO,Energy
+8/28/2019,11.94,MRO,Energy
+8/29/2019,12.2,MRO,Energy
+8/30/2019,11.84,MRO,Energy
+9/3/2019,11.77,MRO,Energy
+9/4/2019,12.11,MRO,Energy
+9/5/2019,12.54,MRO,Energy
+9/6/2019,12.45,MRO,Energy
+9/9/2019,12.9,MRO,Energy
+9/10/2019,12.83,MRO,Energy
+9/11/2019,13.01,MRO,Energy
+9/12/2019,12.58,MRO,Energy
+9/13/2019,12.7,MRO,Energy
+9/16/2019,14.17,MRO,Energy
+9/17/2019,13.07,MRO,Energy
+9/18/2019,13.03,MRO,Energy
+9/19/2019,13.04,MRO,Energy
+9/20/2019,13.18,MRO,Energy
+9/23/2019,13.1,MRO,Energy
+9/24/2019,12.22,MRO,Energy
+9/25/2019,12.32,MRO,Energy
+9/26/2019,11.94,MRO,Energy
+9/27/2019,12.2,MRO,Energy
+9/30/2019,12.27,MRO,Energy
+10/1/2019,11.79,MRO,Energy
+10/2/2019,11.3,MRO,Energy
+10/3/2019,11.66,MRO,Energy
+10/4/2019,11.56,MRO,Energy
+10/7/2019,11.41,MRO,Energy
+10/8/2019,11.09,MRO,Energy
+10/9/2019,11.19,MRO,Energy
+10/10/2019,11.4,MRO,Energy
+10/11/2019,11.74,MRO,Energy
+10/14/2019,11.78,MRO,Energy
+10/15/2019,11.84,MRO,Energy
+10/16/2019,11.62,MRO,Energy
+10/17/2019,11.55,MRO,Energy
+10/18/2019,11.3,MRO,Energy
+10/21/2019,11.53,MRO,Energy
+10/22/2019,11.73,MRO,Energy
+10/23/2019,12.01,MRO,Energy
+10/24/2019,11.94,MRO,Energy
+10/25/2019,11.98,MRO,Energy
+10/28/2019,11.94,MRO,Energy
+10/29/2019,12.01,MRO,Energy
+10/30/2019,11.56,MRO,Energy
+10/31/2019,11.53,MRO,Energy
+11/1/2019,12.05,MRO,Energy
+11/4/2019,12.52,MRO,Energy
+11/5/2019,12.64,MRO,Energy
+11/6/2019,12.18,MRO,Energy
+11/7/2019,12.56,MRO,Energy
+11/8/2019,12.53,MRO,Energy
+11/11/2019,12.16,MRO,Energy
+11/12/2019,12.01,MRO,Energy
+11/13/2019,11.87,MRO,Energy
+11/14/2019,11.89,MRO,Energy
+11/15/2019,12.1,MRO,Energy
+11/18/2019,11.78,MRO,Energy
+11/19/2019,11.46,MRO,Energy
+11/20/2019,11.69,MRO,Energy
+11/21/2019,11.89,MRO,Energy
+11/22/2019,12.2,MRO,Energy
+11/25/2019,12.11,MRO,Energy
+11/26/2019,11.83,MRO,Energy
+11/27/2019,11.88,MRO,Energy
+11/29/2019,11.65,MRO,Energy
+12/2/2019,11.96,MRO,Energy
+12/3/2019,11.76,MRO,Energy
+12/4/2019,12.17,MRO,Energy
+12/5/2019,12.04,MRO,Energy
+12/6/2019,12.45,MRO,Energy
+12/9/2019,12.59,MRO,Energy
+12/10/2019,12.59,MRO,Energy
+12/11/2019,12.61,MRO,Energy
+12/12/2019,13.03,MRO,Energy
+12/13/2019,12.72,MRO,Energy
+12/16/2019,13.13,MRO,Energy
+12/17/2019,13.37,MRO,Energy
+12/18/2019,13.42,MRO,Energy
+12/19/2019,13.18,MRO,Energy
+12/20/2019,13.21,MRO,Energy
+12/23/2019,13.56,MRO,Energy
+12/24/2019,13.62,MRO,Energy
+12/26/2019,13.69,MRO,Energy
+12/27/2019,13.48,MRO,Energy
+12/30/2019,13.42,MRO,Energy
+1/2/2019,65.260002,TMUS,Telecommunication Services
+1/3/2019,65.019997,TMUS,Telecommunication Services
+1/4/2019,67.489998,TMUS,Telecommunication Services
+1/7/2019,68.440002,TMUS,Telecommunication Services
+1/8/2019,67.769997,TMUS,Telecommunication Services
+1/9/2019,67.720001,TMUS,Telecommunication Services
+1/10/2019,67.959999,TMUS,Telecommunication Services
+1/11/2019,69,TMUS,Telecommunication Services
+1/14/2019,67.910004,TMUS,Telecommunication Services
+1/15/2019,67.139999,TMUS,Telecommunication Services
+1/16/2019,66.690002,TMUS,Telecommunication Services
+1/17/2019,66.25,TMUS,Telecommunication Services
+1/18/2019,66.959999,TMUS,Telecommunication Services
+1/22/2019,66.830002,TMUS,Telecommunication Services
+1/23/2019,67.800003,TMUS,Telecommunication Services
+1/24/2019,68.660004,TMUS,Telecommunication Services
+1/25/2019,68.480003,TMUS,Telecommunication Services
+1/28/2019,67.620003,TMUS,Telecommunication Services
+1/29/2019,67.779999,TMUS,Telecommunication Services
+1/30/2019,68.32,TMUS,Telecommunication Services
+1/31/2019,69.620003,TMUS,Telecommunication Services
+2/1/2019,69.629997,TMUS,Telecommunication Services
+2/4/2019,69.410004,TMUS,Telecommunication Services
+2/5/2019,66.849998,TMUS,Telecommunication Services
+2/6/2019,66.940002,TMUS,Telecommunication Services
+2/7/2019,68.279999,TMUS,Telecommunication Services
+2/8/2019,68.379997,TMUS,Telecommunication Services
+2/11/2019,68.440002,TMUS,Telecommunication Services
+2/12/2019,69.599998,TMUS,Telecommunication Services
+2/13/2019,69.07,TMUS,Telecommunication Services
+2/14/2019,70.5,TMUS,Telecommunication Services
+2/15/2019,72.050003,TMUS,Telecommunication Services
+2/19/2019,72.519997,TMUS,Telecommunication Services
+2/20/2019,72.75,TMUS,Telecommunication Services
+2/21/2019,73.410004,TMUS,Telecommunication Services
+2/22/2019,73.199997,TMUS,Telecommunication Services
+2/25/2019,73.050003,TMUS,Telecommunication Services
+2/26/2019,72.529999,TMUS,Telecommunication Services
+2/27/2019,72.120003,TMUS,Telecommunication Services
+2/28/2019,72.209999,TMUS,Telecommunication Services
+3/1/2019,72.339996,TMUS,Telecommunication Services
+3/4/2019,71.650002,TMUS,Telecommunication Services
+3/5/2019,71.410004,TMUS,Telecommunication Services
+3/6/2019,70.779999,TMUS,Telecommunication Services
+3/7/2019,71.32,TMUS,Telecommunication Services
+3/8/2019,70.650002,TMUS,Telecommunication Services
+3/11/2019,71.470001,TMUS,Telecommunication Services
+3/12/2019,71.699997,TMUS,Telecommunication Services
+3/13/2019,72.25,TMUS,Telecommunication Services
+3/14/2019,72.339996,TMUS,Telecommunication Services
+3/15/2019,73.459999,TMUS,Telecommunication Services
+3/18/2019,73.68,TMUS,Telecommunication Services
+3/19/2019,72.589996,TMUS,Telecommunication Services
+3/20/2019,72.059998,TMUS,Telecommunication Services
+3/21/2019,72.260002,TMUS,Telecommunication Services
+3/22/2019,71.900002,TMUS,Telecommunication Services
+3/25/2019,72.309998,TMUS,Telecommunication Services
+3/26/2019,73.339996,TMUS,Telecommunication Services
+3/27/2019,72.239998,TMUS,Telecommunication Services
+3/28/2019,69.150002,TMUS,Telecommunication Services
+3/29/2019,69.099998,TMUS,Telecommunication Services
+4/1/2019,69.970001,TMUS,Telecommunication Services
+4/2/2019,69.730003,TMUS,Telecommunication Services
+4/3/2019,69,TMUS,Telecommunication Services
+4/4/2019,70.050003,TMUS,Telecommunication Services
+4/5/2019,70.349998,TMUS,Telecommunication Services
+4/8/2019,71.230003,TMUS,Telecommunication Services
+4/9/2019,71.419998,TMUS,Telecommunication Services
+4/10/2019,72.160004,TMUS,Telecommunication Services
+4/11/2019,73,TMUS,Telecommunication Services
+4/12/2019,73.709999,TMUS,Telecommunication Services
+4/15/2019,73.790001,TMUS,Telecommunication Services
+4/16/2019,74.099998,TMUS,Telecommunication Services
+4/17/2019,72.459999,TMUS,Telecommunication Services
+4/18/2019,73.75,TMUS,Telecommunication Services
+4/22/2019,73.720001,TMUS,Telecommunication Services
+4/23/2019,73.75,TMUS,Telecommunication Services
+4/24/2019,73.330002,TMUS,Telecommunication Services
+4/25/2019,72.709999,TMUS,Telecommunication Services
+4/26/2019,72.919998,TMUS,Telecommunication Services
+4/29/2019,73.599998,TMUS,Telecommunication Services
+4/30/2019,72.989998,TMUS,Telecommunication Services
+5/1/2019,73.580002,TMUS,Telecommunication Services
+5/2/2019,73.610001,TMUS,Telecommunication Services
+5/3/2019,74.739998,TMUS,Telecommunication Services
+5/6/2019,74.459999,TMUS,Telecommunication Services
+5/7/2019,74,TMUS,Telecommunication Services
+5/8/2019,72.629997,TMUS,Telecommunication Services
+5/9/2019,74.25,TMUS,Telecommunication Services
+5/10/2019,75.230003,TMUS,Telecommunication Services
+5/13/2019,73.419998,TMUS,Telecommunication Services
+5/14/2019,73.599998,TMUS,Telecommunication Services
+5/15/2019,74.629997,TMUS,Telecommunication Services
+5/16/2019,75.379997,TMUS,Telecommunication Services
+5/17/2019,75.370003,TMUS,Telecommunication Services
+5/20/2019,78.290001,TMUS,Telecommunication Services
+5/21/2019,77.150002,TMUS,Telecommunication Services
+5/22/2019,76.349998,TMUS,Telecommunication Services
+5/23/2019,76.010002,TMUS,Telecommunication Services
+5/24/2019,77.269997,TMUS,Telecommunication Services
+5/28/2019,75.910004,TMUS,Telecommunication Services
+5/29/2019,76.129997,TMUS,Telecommunication Services
+5/30/2019,76.029999,TMUS,Telecommunication Services
+5/31/2019,73.440002,TMUS,Telecommunication Services
+6/3/2019,74.199997,TMUS,Telecommunication Services
+6/4/2019,75.690002,TMUS,Telecommunication Services
+6/5/2019,76.290001,TMUS,Telecommunication Services
+6/6/2019,75.949997,TMUS,Telecommunication Services
+6/7/2019,77.029999,TMUS,Telecommunication Services
+6/10/2019,76.669998,TMUS,Telecommunication Services
+6/11/2019,75.459999,TMUS,Telecommunication Services
+6/12/2019,75.379997,TMUS,Telecommunication Services
+6/13/2019,74.449997,TMUS,Telecommunication Services
+6/14/2019,74.900002,TMUS,Telecommunication Services
+6/17/2019,75.269997,TMUS,Telecommunication Services
+6/18/2019,76.440002,TMUS,Telecommunication Services
+6/19/2019,78.279999,TMUS,Telecommunication Services
+6/20/2019,77.93,TMUS,Telecommunication Services
+6/21/2019,75.699997,TMUS,Telecommunication Services
+6/24/2019,75.540001,TMUS,Telecommunication Services
+6/25/2019,74.580002,TMUS,Telecommunication Services
+6/26/2019,73.040001,TMUS,Telecommunication Services
+6/27/2019,73.290001,TMUS,Telecommunication Services
+6/28/2019,74.139999,TMUS,Telecommunication Services
+7/1/2019,74.150002,TMUS,Telecommunication Services
+7/2/2019,75.480003,TMUS,Telecommunication Services
+7/3/2019,75.82,TMUS,Telecommunication Services
+7/5/2019,76.230003,TMUS,Telecommunication Services
+7/8/2019,75.629997,TMUS,Telecommunication Services
+7/9/2019,75.150002,TMUS,Telecommunication Services
+7/10/2019,78.629997,TMUS,Telecommunication Services
+7/11/2019,78.260002,TMUS,Telecommunication Services
+7/12/2019,79.449997,TMUS,Telecommunication Services
+7/15/2019,79.309998,TMUS,Telecommunication Services
+7/16/2019,79.040001,TMUS,Telecommunication Services
+7/17/2019,78.93,TMUS,Telecommunication Services
+7/18/2019,77.970001,TMUS,Telecommunication Services
+7/19/2019,77.43,TMUS,Telecommunication Services
+7/22/2019,77.660004,TMUS,Telecommunication Services
+7/23/2019,78.139999,TMUS,Telecommunication Services
+7/24/2019,80.610001,TMUS,Telecommunication Services
+7/25/2019,79.910004,TMUS,Telecommunication Services
+7/26/2019,84.25,TMUS,Telecommunication Services
+7/29/2019,82.379997,TMUS,Telecommunication Services
+7/30/2019,81.300003,TMUS,Telecommunication Services
+7/31/2019,79.730003,TMUS,Telecommunication Services
+8/1/2019,79.309998,TMUS,Telecommunication Services
+8/2/2019,77.730003,TMUS,Telecommunication Services
+8/5/2019,76.190002,TMUS,Telecommunication Services
+8/6/2019,77.279999,TMUS,Telecommunication Services
+8/7/2019,76.480003,TMUS,Telecommunication Services
+8/8/2019,77.900002,TMUS,Telecommunication Services
+8/9/2019,77.519997,TMUS,Telecommunication Services
+8/12/2019,76.940002,TMUS,Telecommunication Services
+8/13/2019,77.620003,TMUS,Telecommunication Services
+8/14/2019,76.93,TMUS,Telecommunication Services
+8/15/2019,77.269997,TMUS,Telecommunication Services
+8/16/2019,77.75,TMUS,Telecommunication Services
+8/19/2019,78.230003,TMUS,Telecommunication Services
+8/20/2019,77.68,TMUS,Telecommunication Services
+8/21/2019,78.18,TMUS,Telecommunication Services
+8/22/2019,77.790001,TMUS,Telecommunication Services
+8/23/2019,76.480003,TMUS,Telecommunication Services
+8/26/2019,78.059998,TMUS,Telecommunication Services
+8/27/2019,77.120003,TMUS,Telecommunication Services
+8/28/2019,77.059998,TMUS,Telecommunication Services
+8/29/2019,78.010002,TMUS,Telecommunication Services
+8/30/2019,78.050003,TMUS,Telecommunication Services
+9/3/2019,77.129997,TMUS,Telecommunication Services
+9/4/2019,77.610001,TMUS,Telecommunication Services
+9/5/2019,77.830002,TMUS,Telecommunication Services
+9/6/2019,79.150002,TMUS,Telecommunication Services
+9/9/2019,79.129997,TMUS,Telecommunication Services
+9/10/2019,78.379997,TMUS,Telecommunication Services
+9/11/2019,79.739998,TMUS,Telecommunication Services
+9/12/2019,79.690002,TMUS,Telecommunication Services
+9/13/2019,79.400002,TMUS,Telecommunication Services
+9/16/2019,79.559998,TMUS,Telecommunication Services
+9/17/2019,80.209999,TMUS,Telecommunication Services
+9/18/2019,80.120003,TMUS,Telecommunication Services
+9/19/2019,81,TMUS,Telecommunication Services
+9/20/2019,80.589996,TMUS,Telecommunication Services
+9/23/2019,79.959999,TMUS,Telecommunication Services
+9/24/2019,79.360001,TMUS,Telecommunication Services
+9/25/2019,79.809998,TMUS,Telecommunication Services
+9/26/2019,79,TMUS,Telecommunication Services
+9/27/2019,77.559998,TMUS,Telecommunication Services
+9/30/2019,78.769997,TMUS,Telecommunication Services
+10/1/2019,78.199997,TMUS,Telecommunication Services
+10/2/2019,76.410004,TMUS,Telecommunication Services
+10/3/2019,77.029999,TMUS,Telecommunication Services
+10/4/2019,77.989998,TMUS,Telecommunication Services
+10/7/2019,78.480003,TMUS,Telecommunication Services
+10/8/2019,77.610001,TMUS,Telecommunication Services
+10/9/2019,77.790001,TMUS,Telecommunication Services
+10/10/2019,78.300003,TMUS,Telecommunication Services
+10/11/2019,79.529999,TMUS,Telecommunication Services
+10/14/2019,78.629997,TMUS,Telecommunication Services
+10/15/2019,79.739998,TMUS,Telecommunication Services
+10/16/2019,80.010002,TMUS,Telecommunication Services
+10/17/2019,81.050003,TMUS,Telecommunication Services
+10/18/2019,81.599998,TMUS,Telecommunication Services
+10/21/2019,82.089996,TMUS,Telecommunication Services
+10/22/2019,81.669998,TMUS,Telecommunication Services
+10/23/2019,81.360001,TMUS,Telecommunication Services
+10/24/2019,81.480003,TMUS,Telecommunication Services
+10/25/2019,81.620003,TMUS,Telecommunication Services
+10/28/2019,82.389999,TMUS,Telecommunication Services
+10/29/2019,81.769997,TMUS,Telecommunication Services
+10/30/2019,83.269997,TMUS,Telecommunication Services
+10/31/2019,82.660004,TMUS,Telecommunication Services
+11/1/2019,82.470001,TMUS,Telecommunication Services
+11/4/2019,80.919998,TMUS,Telecommunication Services
+11/5/2019,81.470001,TMUS,Telecommunication Services
+11/6/2019,81.860001,TMUS,Telecommunication Services
+11/7/2019,81.860001,TMUS,Telecommunication Services
+11/8/2019,80.940002,TMUS,Telecommunication Services
+11/11/2019,79.620003,TMUS,Telecommunication Services
+11/12/2019,77.43,TMUS,Telecommunication Services
+11/13/2019,77.970001,TMUS,Telecommunication Services
+11/14/2019,76.839996,TMUS,Telecommunication Services
+11/15/2019,78.07,TMUS,Telecommunication Services
+11/18/2019,78.190002,TMUS,Telecommunication Services
+11/19/2019,77.160004,TMUS,Telecommunication Services
+11/20/2019,77.639999,TMUS,Telecommunication Services
+11/21/2019,77.699997,TMUS,Telecommunication Services
+11/22/2019,78.589996,TMUS,Telecommunication Services
+11/25/2019,78,TMUS,Telecommunication Services
+11/26/2019,78.449997,TMUS,Telecommunication Services
+11/27/2019,78.980003,TMUS,Telecommunication Services
+11/29/2019,78.550003,TMUS,Telecommunication Services
+12/2/2019,77.639999,TMUS,Telecommunication Services
+12/3/2019,78.010002,TMUS,Telecommunication Services
+12/4/2019,78.339996,TMUS,Telecommunication Services
+12/5/2019,76.940002,TMUS,Telecommunication Services
+12/6/2019,77.739998,TMUS,Telecommunication Services
+12/9/2019,75.870003,TMUS,Telecommunication Services
+12/10/2019,75.019997,TMUS,Telecommunication Services
+12/11/2019,74.620003,TMUS,Telecommunication Services
+12/12/2019,74.889999,TMUS,Telecommunication Services
+12/13/2019,75.470001,TMUS,Telecommunication Services
+12/16/2019,75.470001,TMUS,Telecommunication Services
+12/17/2019,75.489998,TMUS,Telecommunication Services
+12/18/2019,76.309998,TMUS,Telecommunication Services
+12/19/2019,77.220001,TMUS,Telecommunication Services
+12/20/2019,77.400002,TMUS,Telecommunication Services
+12/23/2019,76.959999,TMUS,Telecommunication Services
+12/24/2019,77.32,TMUS,Telecommunication Services
+12/26/2019,77.400002,TMUS,Telecommunication Services
+12/27/2019,77.239998,TMUS,Telecommunication Services
+12/30/2019,78.080002,TMUS,Telecommunication Services
+1/2/2019,84.18,UAL,Industrials
+1/3/2019,80,UAL,Industrials
+1/4/2019,82.68,UAL,Industrials
+1/7/2019,83.230003,UAL,Industrials
+1/8/2019,82.379997,UAL,Industrials
+1/9/2019,83.760002,UAL,Industrials
+1/10/2019,81.370003,UAL,Industrials
+1/11/2019,80.07,UAL,Industrials
+1/14/2019,79.910004,UAL,Industrials
+1/15/2019,81.199997,UAL,Industrials
+1/16/2019,86.360001,UAL,Industrials
+1/17/2019,86.739998,UAL,Industrials
+1/18/2019,85.589996,UAL,Industrials
+1/22/2019,83.339996,UAL,Industrials
+1/23/2019,82.879997,UAL,Industrials
+1/24/2019,84.029999,UAL,Industrials
+1/25/2019,84.139999,UAL,Industrials
+1/28/2019,84.599998,UAL,Industrials
+1/29/2019,85.669998,UAL,Industrials
+1/30/2019,87.470001,UAL,Industrials
+1/31/2019,87.269997,UAL,Industrials
+2/1/2019,87.489998,UAL,Industrials
+2/4/2019,88.620003,UAL,Industrials
+2/5/2019,89.459999,UAL,Industrials
+2/6/2019,89.75,UAL,Industrials
+2/7/2019,87.860001,UAL,Industrials
+2/8/2019,88.169998,UAL,Industrials
+2/11/2019,89.150002,UAL,Industrials
+2/12/2019,87.970001,UAL,Industrials
+2/13/2019,88.580002,UAL,Industrials
+2/14/2019,88.150002,UAL,Industrials
+2/15/2019,88.309998,UAL,Industrials
+2/19/2019,89.239998,UAL,Industrials
+2/20/2019,88.5,UAL,Industrials
+2/21/2019,88.839996,UAL,Industrials
+2/22/2019,89.43,UAL,Industrials
+2/25/2019,89.580002,UAL,Industrials
+2/26/2019,89.529999,UAL,Industrials
+2/27/2019,87.599998,UAL,Industrials
+2/28/2019,87.809998,UAL,Industrials
+3/1/2019,86.919998,UAL,Industrials
+3/4/2019,84.309998,UAL,Industrials
+3/5/2019,85.050003,UAL,Industrials
+3/6/2019,84.330002,UAL,Industrials
+3/7/2019,82.610001,UAL,Industrials
+3/8/2019,82.400002,UAL,Industrials
+3/11/2019,82.379997,UAL,Industrials
+3/12/2019,79.849998,UAL,Industrials
+3/13/2019,81.209999,UAL,Industrials
+3/14/2019,81.489998,UAL,Industrials
+3/15/2019,81.690002,UAL,Industrials
+3/18/2019,80.730003,UAL,Industrials
+3/19/2019,81.339996,UAL,Industrials
+3/20/2019,79.830002,UAL,Industrials
+3/21/2019,81,UAL,Industrials
+3/22/2019,79.629997,UAL,Industrials
+3/25/2019,78.120003,UAL,Industrials
+3/26/2019,77.489998,UAL,Industrials
+3/27/2019,78.529999,UAL,Industrials
+3/28/2019,78.599998,UAL,Industrials
+3/29/2019,79.779999,UAL,Industrials
+4/1/2019,80.870003,UAL,Industrials
+4/2/2019,82.769997,UAL,Industrials
+4/3/2019,84.199997,UAL,Industrials
+4/4/2019,84.639999,UAL,Industrials
+4/5/2019,84.910004,UAL,Industrials
+4/8/2019,84.580002,UAL,Industrials
+4/9/2019,84.25,UAL,Industrials
+4/10/2019,84.519997,UAL,Industrials
+4/11/2019,85.75,UAL,Industrials
+4/12/2019,85.489998,UAL,Industrials
+4/15/2019,84.519997,UAL,Industrials
+4/16/2019,85.169998,UAL,Industrials
+4/17/2019,89.239998,UAL,Industrials
+4/18/2019,88.279999,UAL,Industrials
+4/22/2019,87.559998,UAL,Industrials
+4/23/2019,87.970001,UAL,Industrials
+4/24/2019,88.029999,UAL,Industrials
+4/25/2019,86.860001,UAL,Industrials
+4/26/2019,87.940002,UAL,Industrials
+4/29/2019,89.610001,UAL,Industrials
+4/30/2019,88.860001,UAL,Industrials
+5/1/2019,87.940002,UAL,Industrials
+5/2/2019,88.309998,UAL,Industrials
+5/3/2019,88.5,UAL,Industrials
+5/6/2019,87.790001,UAL,Industrials
+5/7/2019,85.68,UAL,Industrials
+5/8/2019,84.639999,UAL,Industrials
+5/9/2019,84.120003,UAL,Industrials
+5/10/2019,84.790001,UAL,Industrials
+5/13/2019,82.07,UAL,Industrials
+5/14/2019,83.449997,UAL,Industrials
+5/15/2019,82.349998,UAL,Industrials
+5/16/2019,82.580002,UAL,Industrials
+5/17/2019,81.5,UAL,Industrials
+5/20/2019,81.739998,UAL,Industrials
+5/21/2019,82.970001,UAL,Industrials
+5/22/2019,81.879997,UAL,Industrials
+5/23/2019,80.910004,UAL,Industrials
+5/24/2019,80.790001,UAL,Industrials
+5/28/2019,79.900002,UAL,Industrials
+5/29/2019,79.25,UAL,Industrials
+5/30/2019,79.470001,UAL,Industrials
+5/31/2019,77.650002,UAL,Industrials
+6/3/2019,77.720001,UAL,Industrials
+6/4/2019,80.519997,UAL,Industrials
+6/5/2019,81.849998,UAL,Industrials
+6/6/2019,82.959999,UAL,Industrials
+6/7/2019,83.269997,UAL,Industrials
+6/10/2019,82.669998,UAL,Industrials
+6/11/2019,82.769997,UAL,Industrials
+6/12/2019,83.790001,UAL,Industrials
+6/13/2019,87.110001,UAL,Industrials
+6/14/2019,87.120003,UAL,Industrials
+6/17/2019,86.769997,UAL,Industrials
+6/18/2019,87.400002,UAL,Industrials
+6/19/2019,88.660004,UAL,Industrials
+6/20/2019,87.139999,UAL,Industrials
+6/21/2019,86.720001,UAL,Industrials
+6/24/2019,86.550003,UAL,Industrials
+6/25/2019,85.059998,UAL,Industrials
+6/26/2019,85.330002,UAL,Industrials
+6/27/2019,86.43,UAL,Industrials
+6/28/2019,87.550003,UAL,Industrials
+7/1/2019,88.449997,UAL,Industrials
+7/2/2019,88.870003,UAL,Industrials
+7/3/2019,90.669998,UAL,Industrials
+7/5/2019,90.589996,UAL,Industrials
+7/8/2019,90.669998,UAL,Industrials
+7/9/2019,89.459999,UAL,Industrials
+7/10/2019,89.510002,UAL,Industrials
+7/11/2019,89.480003,UAL,Industrials
+7/12/2019,91.230003,UAL,Industrials
+7/15/2019,91.32,UAL,Industrials
+7/16/2019,93.919998,UAL,Industrials
+7/17/2019,94.779999,UAL,Industrials
+7/18/2019,95.279999,UAL,Industrials
+7/19/2019,93.830002,UAL,Industrials
+7/22/2019,93.830002,UAL,Industrials
+7/23/2019,94.93,UAL,Industrials
+7/24/2019,95.110001,UAL,Industrials
+7/25/2019,93.93,UAL,Industrials
+7/26/2019,93.360001,UAL,Industrials
+7/29/2019,93.440002,UAL,Industrials
+7/30/2019,93.93,UAL,Industrials
+7/31/2019,91.910004,UAL,Industrials
+8/1/2019,90.489998,UAL,Industrials
+8/2/2019,89.43,UAL,Industrials
+8/5/2019,85.589996,UAL,Industrials
+8/6/2019,85.459999,UAL,Industrials
+8/7/2019,86.480003,UAL,Industrials
+8/8/2019,87.629997,UAL,Industrials
+8/9/2019,86.980003,UAL,Industrials
+8/12/2019,84.709999,UAL,Industrials
+8/13/2019,84.559998,UAL,Industrials
+8/14/2019,81.949997,UAL,Industrials
+8/15/2019,81.620003,UAL,Industrials
+8/16/2019,82.940002,UAL,Industrials
+8/19/2019,83.889999,UAL,Industrials
+8/20/2019,84.029999,UAL,Industrials
+8/21/2019,85.290001,UAL,Industrials
+8/22/2019,85.559998,UAL,Industrials
+8/23/2019,82.529999,UAL,Industrials
+8/26/2019,83.580002,UAL,Industrials
+8/27/2019,81.940002,UAL,Industrials
+8/28/2019,82.449997,UAL,Industrials
+8/29/2019,84.690002,UAL,Industrials
+8/30/2019,84.309998,UAL,Industrials
+9/3/2019,83.150002,UAL,Industrials
+9/4/2019,83.910004,UAL,Industrials
+9/5/2019,85.839996,UAL,Industrials
+9/6/2019,86.300003,UAL,Industrials
+9/9/2019,87.330002,UAL,Industrials
+9/10/2019,87.559998,UAL,Industrials
+9/11/2019,88.379997,UAL,Industrials
+9/12/2019,89.379997,UAL,Industrials
+9/13/2019,91.349998,UAL,Industrials
+9/16/2019,88.760002,UAL,Industrials
+9/17/2019,89.980003,UAL,Industrials
+9/18/2019,90.230003,UAL,Industrials
+9/19/2019,89.419998,UAL,Industrials
+9/20/2019,89.089996,UAL,Industrials
+9/23/2019,88.209999,UAL,Industrials
+9/24/2019,88.300003,UAL,Industrials
+9/25/2019,89.169998,UAL,Industrials
+9/26/2019,88.449997,UAL,Industrials
+9/27/2019,88.139999,UAL,Industrials
+9/30/2019,88.410004,UAL,Industrials
+10/1/2019,87.839996,UAL,Industrials
+10/2/2019,83.690002,UAL,Industrials
+10/3/2019,83.269997,UAL,Industrials
+10/4/2019,84.290001,UAL,Industrials
+10/7/2019,84.849998,UAL,Industrials
+10/8/2019,84.690002,UAL,Industrials
+10/9/2019,86.459999,UAL,Industrials
+10/10/2019,87.339996,UAL,Industrials
+10/11/2019,87.150002,UAL,Industrials
+10/14/2019,86.970001,UAL,Industrials
+10/15/2019,87.879997,UAL,Industrials
+10/16/2019,89.699997,UAL,Industrials
+10/17/2019,89.459999,UAL,Industrials
+10/18/2019,90.089996,UAL,Industrials
+10/21/2019,90.779999,UAL,Industrials
+10/22/2019,89.709999,UAL,Industrials
+10/23/2019,89.900002,UAL,Industrials
+10/24/2019,89.809998,UAL,Industrials
+10/25/2019,91.639999,UAL,Industrials
+10/28/2019,92.190002,UAL,Industrials
+10/29/2019,91.029999,UAL,Industrials
+10/30/2019,91.669998,UAL,Industrials
+10/31/2019,90.839996,UAL,Industrials
+11/1/2019,91.650002,UAL,Industrials
+11/4/2019,92.389999,UAL,Industrials
+11/5/2019,93.120003,UAL,Industrials
+11/6/2019,93.339996,UAL,Industrials
+11/7/2019,93.800003,UAL,Industrials
+11/8/2019,93.440002,UAL,Industrials
+11/11/2019,93.529999,UAL,Industrials
+11/12/2019,92.720001,UAL,Industrials
+11/13/2019,92.419998,UAL,Industrials
+11/14/2019,92.519997,UAL,Industrials
+11/15/2019,92.510002,UAL,Industrials
+11/18/2019,92.769997,UAL,Industrials
+11/19/2019,93.290001,UAL,Industrials
+11/20/2019,91.699997,UAL,Industrials
+11/21/2019,90.970001,UAL,Industrials
+11/22/2019,91.779999,UAL,Industrials
+11/25/2019,92.519997,UAL,Industrials
+11/26/2019,92.760002,UAL,Industrials
+11/27/2019,93.050003,UAL,Industrials
+11/29/2019,92.800003,UAL,Industrials
+12/2/2019,91.629997,UAL,Industrials
+12/3/2019,88.870003,UAL,Industrials
+12/4/2019,88.169998,UAL,Industrials
+12/5/2019,87.860001,UAL,Industrials
+12/6/2019,88.580002,UAL,Industrials
+12/9/2019,87.610001,UAL,Industrials
+12/10/2019,86.510002,UAL,Industrials
+12/11/2019,87.019997,UAL,Industrials
+12/12/2019,88.470001,UAL,Industrials
+12/13/2019,87.580002,UAL,Industrials
+12/16/2019,88.629997,UAL,Industrials
+12/17/2019,89.360001,UAL,Industrials
+12/18/2019,88.839996,UAL,Industrials
+12/19/2019,89.220001,UAL,Industrials
+12/20/2019,89.279999,UAL,Industrials
+12/23/2019,89.440002,UAL,Industrials
+12/24/2019,89.150002,UAL,Industrials
+12/26/2019,89.260002,UAL,Industrials
+12/27/2019,88.370003,UAL,Industrials
+12/30/2019,87.959999,UAL,Industrials
+1/2/2019,2510.03,S&P,S&P
+1/3/2019,2447.89,S&P,S&P
+1/4/2019,2531.94,S&P,S&P
+1/7/2019,2549.69,S&P,S&P
+1/8/2019,2574.41,S&P,S&P
+1/9/2019,2584.96,S&P,S&P
+1/10/2019,2596.64,S&P,S&P
+1/11/2019,2596.26,S&P,S&P
+1/14/2019,2582.61,S&P,S&P
+1/15/2019,2610.3,S&P,S&P
+1/16/2019,2616.1,S&P,S&P
+1/17/2019,2635.96,S&P,S&P
+1/18/2019,2670.71,S&P,S&P
+1/22/2019,2632.9,S&P,S&P
+1/23/2019,2638.7,S&P,S&P
+1/24/2019,2642.33,S&P,S&P
+1/25/2019,2664.76,S&P,S&P
+1/28/2019,2643.85,S&P,S&P
+1/29/2019,2640,S&P,S&P
+1/30/2019,2681.05,S&P,S&P
+1/31/2019,2704.1,S&P,S&P
+2/1/2019,2706.53,S&P,S&P
+2/4/2019,2724.87,S&P,S&P
+2/5/2019,2737.7,S&P,S&P
+2/6/2019,2731.61,S&P,S&P
+2/7/2019,2706.05,S&P,S&P
+2/8/2019,2707.88,S&P,S&P
+2/11/2019,2709.8,S&P,S&P
+2/12/2019,2744.73,S&P,S&P
+2/13/2019,2753.03,S&P,S&P
+2/14/2019,2745.73,S&P,S&P
+2/15/2019,2775.6,S&P,S&P
+2/19/2019,2779.76,S&P,S&P
+2/20/2019,2784.7,S&P,S&P
+2/21/2019,2774.88,S&P,S&P
+2/22/2019,2792.67,S&P,S&P
+2/25/2019,2796.11,S&P,S&P
+2/26/2019,2793.9,S&P,S&P
+2/27/2019,2792.38,S&P,S&P
+2/28/2019,2784.49,S&P,S&P
+3/1/2019,2803.69,S&P,S&P
+3/4/2019,2792.81,S&P,S&P
+3/5/2019,2789.65,S&P,S&P
+3/6/2019,2771.45,S&P,S&P
+3/7/2019,2748.93,S&P,S&P
+3/8/2019,2743.07,S&P,S&P
+3/11/2019,2783.3,S&P,S&P
+3/12/2019,2791.52,S&P,S&P
+3/13/2019,2810.92,S&P,S&P
+3/14/2019,2808.48,S&P,S&P
+3/15/2019,2822.48,S&P,S&P
+3/18/2019,2832.94,S&P,S&P
+3/19/2019,2832.57,S&P,S&P
+3/20/2019,2824.23,S&P,S&P
+3/21/2019,2854.88,S&P,S&P
+3/22/2019,2800.71,S&P,S&P
+3/25/2019,2798.36,S&P,S&P
+3/26/2019,2818.46,S&P,S&P
+3/27/2019,2805.37,S&P,S&P
+3/28/2019,2815.44,S&P,S&P
+3/29/2019,2834.4,S&P,S&P
+4/1/2019,2867.19,S&P,S&P
+4/2/2019,2867.24,S&P,S&P
+4/3/2019,2873.4,S&P,S&P
+4/4/2019,2879.39,S&P,S&P
+4/5/2019,2892.74,S&P,S&P
+4/8/2019,2895.77,S&P,S&P
+4/9/2019,2878.2,S&P,S&P
+4/10/2019,2888.21,S&P,S&P
+4/11/2019,2888.32,S&P,S&P
+4/12/2019,2907.41,S&P,S&P
+4/15/2019,2905.58,S&P,S&P
+4/16/2019,2907.06,S&P,S&P
+4/17/2019,2900.45,S&P,S&P
+4/18/2019,2905.03,S&P,S&P
+4/22/2019,2907.97,S&P,S&P
+4/23/2019,2933.68,S&P,S&P
+4/24/2019,2927.25,S&P,S&P
+4/25/2019,2926.17,S&P,S&P
+4/26/2019,2939.88,S&P,S&P
+4/29/2019,2943.03,S&P,S&P
+4/30/2019,2945.83,S&P,S&P
+5/1/2019,2923.73,S&P,S&P
+5/2/2019,2917.52,S&P,S&P
+5/3/2019,2945.64,S&P,S&P
+5/6/2019,2932.47,S&P,S&P
+5/7/2019,2884.05,S&P,S&P
+5/8/2019,2879.42,S&P,S&P
+5/9/2019,2870.72,S&P,S&P
+5/10/2019,2881.4,S&P,S&P
+5/13/2019,2811.87,S&P,S&P
+5/14/2019,2834.41,S&P,S&P
+5/15/2019,2850.96,S&P,S&P
+5/16/2019,2876.32,S&P,S&P
+5/17/2019,2859.53,S&P,S&P
+5/20/2019,2840.23,S&P,S&P
+5/21/2019,2864.36,S&P,S&P
+5/22/2019,2856.27,S&P,S&P
+5/23/2019,2822.24,S&P,S&P
+5/24/2019,2826.06,S&P,S&P
+5/28/2019,2802.39,S&P,S&P
+5/29/2019,2783.02,S&P,S&P
+5/30/2019,2788.86,S&P,S&P
+5/31/2019,2752.06,S&P,S&P
+6/3/2019,2744.45,S&P,S&P
+6/4/2019,2803.27,S&P,S&P
+6/5/2019,2826.15,S&P,S&P
+6/6/2019,2843.49,S&P,S&P
+6/7/2019,2873.34,S&P,S&P
+6/10/2019,2886.73,S&P,S&P
+6/11/2019,2885.72,S&P,S&P
+6/12/2019,2879.84,S&P,S&P
+6/13/2019,2891.64,S&P,S&P
+6/14/2019,2886.98,S&P,S&P
+6/17/2019,2889.67,S&P,S&P
+6/18/2019,2917.75,S&P,S&P
+6/19/2019,2926.46,S&P,S&P
+6/20/2019,2954.18,S&P,S&P
+6/21/2019,2950.46,S&P,S&P
+6/24/2019,2945.35,S&P,S&P
+6/25/2019,2917.38,S&P,S&P
+6/26/2019,2913.78,S&P,S&P
+6/27/2019,2924.92,S&P,S&P
+6/28/2019,2941.76,S&P,S&P
+7/1/2019,2964.33,S&P,S&P
+7/2/2019,2973.01,S&P,S&P
+7/3/2019,2995.82,S&P,S&P
+7/5/2019,2990.41,S&P,S&P
+7/8/2019,2975.95,S&P,S&P
+7/9/2019,2979.63,S&P,S&P
+7/10/2019,2993.07,S&P,S&P
+7/11/2019,2999.91,S&P,S&P
+7/12/2019,3013.77,S&P,S&P
+7/15/2019,3014.3,S&P,S&P
+7/16/2019,3004.04,S&P,S&P
+7/17/2019,2984.42,S&P,S&P
+7/18/2019,2995.11,S&P,S&P
+7/19/2019,2976.61,S&P,S&P
+7/22/2019,2985.03,S&P,S&P
+7/23/2019,3005.47,S&P,S&P
+7/24/2019,3019.56,S&P,S&P
+7/25/2019,3003.67,S&P,S&P
+7/26/2019,3025.86,S&P,S&P
+7/29/2019,3020.97,S&P,S&P
+7/30/2019,3013.18,S&P,S&P
+7/31/2019,2980.38,S&P,S&P
+8/1/2019,2953.56,S&P,S&P
+8/2/2019,2932.05,S&P,S&P
+8/5/2019,2844.74,S&P,S&P
+8/6/2019,2881.77,S&P,S&P
+8/7/2019,2883.98,S&P,S&P
+8/8/2019,2938.09,S&P,S&P
+8/9/2019,2918.65,S&P,S&P
+8/12/2019,2883.75,S&P,S&P
+8/13/2019,2926.32,S&P,S&P
+8/14/2019,2840.6,S&P,S&P
+8/15/2019,2847.6,S&P,S&P
+8/16/2019,2888.68,S&P,S&P
+8/19/2019,2923.65,S&P,S&P
+8/20/2019,2900.51,S&P,S&P
+8/21/2019,2924.43,S&P,S&P
+8/22/2019,2922.95,S&P,S&P
+8/23/2019,2847.11,S&P,S&P
+8/26/2019,2878.38,S&P,S&P
+8/27/2019,2869.16,S&P,S&P
+8/28/2019,2887.94,S&P,S&P
+8/29/2019,2924.58,S&P,S&P
+8/30/2019,2926.46,S&P,S&P
+9/3/2019,2906.27,S&P,S&P
+9/4/2019,2937.78,S&P,S&P
+9/5/2019,2976,S&P,S&P
+9/6/2019,2978.71,S&P,S&P
+9/9/2019,2978.43,S&P,S&P
+9/10/2019,2979.39,S&P,S&P
+9/11/2019,3000.93,S&P,S&P
+9/12/2019,3009.57,S&P,S&P
+9/13/2019,3007.39,S&P,S&P
+9/16/2019,2997.96,S&P,S&P
+9/17/2019,3005.7,S&P,S&P
+9/18/2019,3006.73,S&P,S&P
+9/19/2019,3006.79,S&P,S&P
+9/20/2019,2992.07,S&P,S&P
+9/23/2019,2991.78,S&P,S&P
+9/24/2019,2966.6,S&P,S&P
+9/25/2019,2984.87,S&P,S&P
+9/26/2019,2977.62,S&P,S&P
+9/27/2019,2961.79,S&P,S&P
+9/30/2019,2976.74,S&P,S&P
+10/1/2019,2940.25,S&P,S&P
+10/2/2019,2887.61,S&P,S&P
+10/3/2019,2910.63,S&P,S&P
+10/4/2019,2952.01,S&P,S&P
+10/7/2019,2938.79,S&P,S&P
+10/8/2019,2893.06,S&P,S&P
+10/9/2019,2919.4,S&P,S&P
+10/10/2019,2938.13,S&P,S&P
+10/11/2019,2970.27,S&P,S&P
+10/14/2019,2966.15,S&P,S&P
+10/15/2019,2995.68,S&P,S&P
+10/16/2019,2989.69,S&P,S&P
+10/17/2019,2997.95,S&P,S&P
+10/18/2019,2986.2,S&P,S&P
+10/21/2019,3006.72,S&P,S&P
+10/22/2019,2995.99,S&P,S&P
+10/23/2019,3004.52,S&P,S&P
+10/24/2019,3010.29,S&P,S&P
+10/25/2019,3022.55,S&P,S&P
+10/28/2019,3039.42,S&P,S&P
+10/29/2019,3036.89,S&P,S&P
+10/30/2019,3046.77,S&P,S&P
+10/31/2019,3037.56,S&P,S&P
+11/1/2019,3066.91,S&P,S&P
+11/4/2019,3078.27,S&P,S&P
+11/5/2019,3074.62,S&P,S&P
+11/6/2019,3076.78,S&P,S&P
+11/7/2019,3085.18,S&P,S&P
+11/8/2019,3093.08,S&P,S&P
+11/11/2019,3087.01,S&P,S&P
+11/12/2019,3091.84,S&P,S&P
+11/13/2019,3094.04,S&P,S&P
+11/14/2019,3096.63,S&P,S&P
+11/15/2019,3120.46,S&P,S&P
+11/18/2019,3122.03,S&P,S&P
+11/19/2019,3120.18,S&P,S&P
+11/20/2019,3108.46,S&P,S&P
+11/21/2019,3103.54,S&P,S&P
+11/22/2019,3110.29,S&P,S&P
+11/25/2019,3133.64,S&P,S&P
+11/26/2019,3140.52,S&P,S&P
+11/27/2019,3153.63,S&P,S&P
+11/29/2019,3140.98,S&P,S&P
+12/2/2019,3113.87,S&P,S&P
+12/3/2019,3093.2,S&P,S&P
+12/4/2019,3112.76,S&P,S&P
+12/5/2019,3117.43,S&P,S&P
+12/6/2019,3145.91,S&P,S&P
+12/9/2019,3135.96,S&P,S&P
+12/10/2019,3132.52,S&P,S&P
+12/11/2019,3141.63,S&P,S&P
+12/12/2019,3168.57,S&P,S&P
+12/13/2019,3168.8,S&P,S&P
+12/16/2019,3191.45,S&P,S&P
+12/17/2019,3192.52,S&P,S&P
+12/18/2019,3191.14,S&P,S&P
+12/19/2019,3205.37,S&P,S&P
+12/20/2019,3221.22,S&P,S&P
+12/23/2019,3224.01,S&P,S&P
+12/24/2019,3223.38,S&P,S&P
+12/26/2019,3239.91,S&P,S&P
+12/27/2019,3240.02,S&P,S&P
+12/30/2019,3221.29,S&P,S&P

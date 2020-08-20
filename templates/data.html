@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 3 - Stock Market</title>
+    <!-- Bootstrap js/css bundle -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <!-- Our own CSS stylesheet -->
+    <link rel="stylesheet" href="styles.css" media="screen">
+
+    <!-- Font-awesome library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        body {
+          background-image: url('https://img.etimg.com/thumb/msid-76907369,width-1015,height-761,imgsize-207526,resizemode-8,quality-100/wealth/invest/trading-in-stocks-is-injurious-to-your-wealth-heres-a-boring-but-better-option.jpg');
+          background-size: 100%;
+          background-repeat: repeat;
+          background-attachment: fixed;
+          background-position: center;
+        }
+      </style>
+
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="fa fa-bar-chart"></a>
+    <a class="navbar-brand" href="./index.html">TEAM 1</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="./regressiondisasters.html">Natural Disasters</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./regressionstocks.html">Stock Predictions</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./charts.html">Individual Charts</a>
+        <li class="nav-item">
+          <a class="nav-link" href="./data.html">Data</a>
+        </li>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://public.tableau.com/profile/emily.m3744#!/vizhome/2019NYCCityBikesDashboard/Dashboard3?publish=yes">Tableau</a>
+        </li>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+
+    <div class = "jumbotron">
+        <div>
+            <h1 class="d-flex justify-content-center">Data</h1>
+        </div>
+
+        <div class="row" >
+          <div class="col">
+          </div>
+        <div class="col-10" >
+          <p class = text-dark style="text-align:center">S&P 500 and Consumer Price Index data was downloaded from <a href="https://datahub.io/core/s-and-p-500#readme">https://datahub.io/core/s-and-p-500#readme</a> as a csv file. This data consisted of 31 years from 1987-2017. 
+            Additionally, disaster data was extracted from <a href="https://public.emdat.be/data">https://public.emdat.be/data</a> between the years of 1987-2017. Both datasets were limited to this time frame to allow comparable datapoints for the machine learning or multiple linear regression portion of our project.
+          </p>
+          </div>
+          <div class="col"></div>
+        </div>
+      </div>
+      <div class = "jumbotron">
+      <table border="1" class="table table-dark table-striped" style="text-align:center"><thead><tr style="text-align:center">      <th></th>      <th>Year</th>      <th>Natural</th>      <th>Technological</th>      <th>SP500</th>      <th>Consumer Price Index</th>    </tr>  </thead>  <tbody>    <tr >      <th>0</th>      <td>1987</td>      <td>11</td>      <td>10</td>      <td>286.84</td>      <td>113.62</td>    </tr>    <tr>      <th>1</th>      <td>1988</td>      <td>22</td>      <td>4</td>      <td>265.78</td>      <td>118.26</td>    </tr>    <tr>      <th>2</th>      <td>1989</td>      <td>19</td>      <td>16</td>      <td>322.83</td>      <td>123.97</td>    </tr>    <tr>      <th>3</th>      <td>1990</td>      <td>24</td>      <td>8</td>      <td>334.59</td>      <td>130.66</td>    </tr>    <tr>      <th>4</th>      <td>1991</td>      <td>36</td>      <td>10</td>      <td>376.18</td>      <td>136.19</td>    </tr>    <tr>      <th>5</th>      <td>1992</td>      <td>32</td>      <td>3</td>      <td>415.74</td>      <td>140.32</td>    </tr>    <tr>      <th>6</th>      <td>1993</td>      <td>30</td>      <td>7</td>      <td>451.41</td>      <td>144.46</td>    </tr>    <tr>      <th>7</th>      <td>1994</td>      <td>16</td>      <td>13</td>      <td>460.33</td>      <td>148.23</td>    </tr>    <tr>      <th>8</th>      <td>1995</td>      <td>18</td>      <td>7</td>      <td>541.64</td>      <td>152.38</td>    </tr>    <tr>      <th>9</th>      <td>1996</td>      <td>15</td>      <td>10</td>      <td>670.83</td>      <td>156.85</td>    </tr>    <tr>      <th>10</th>      <td>1997</td>      <td>33</td>      <td>6</td>      <td>872.67</td>      <td>160.52</td>    </tr>    <tr>      <th>11</th>      <td>1998</td>      <td>32</td>      <td>9</td>      <td>1084.31</td>      <td>163.01</td>    </tr>    <tr>      <th>12</th>      <td>1999</td>      <td>22</td>      <td>12</td>      <td>1326.06</td>      <td>166.58</td>    </tr>    <tr>      <th>13</th>      <td>2000</td>      <td>31</td>      <td>8</td>      <td>1427.01</td>      <td>172.20</td>    </tr>    <tr>      <th>14</th>      <td>2001</td>      <td>27</td>      <td>9</td>      <td>1192.08</td>      <td>177.07</td>    </tr>    <tr>      <th>15</th>      <td>2002</td>      <td>32</td>      <td>7</td>      <td>995.63</td>      <td>179.88</td>    </tr>    <tr>      <th>16</th>      <td>2003</td>      <td>23</td>      <td>11</td>      <td>963.69</td>      <td>183.96</td>    </tr>    <tr>      <th>17</th>      <td>2004</td>      <td>20</td>      <td>4</td>      <td>1130.55</td>      <td>188.88</td>    </tr>    <tr>      <th>18</th>      <td>2005</td>      <td>16</td>      <td>6</td>      <td>1207.06</td>      <td>195.29</td>    </tr>    <tr>      <th>19</th>      <td>2006</td>      <td>29</td>      <td>4</td>      <td>1310.67</td>      <td>201.59</td>    </tr>    <tr>      <th>20</th>      <td>2007</td>      <td>23</td>      <td>3</td>      <td>1476.63</td>      <td>207.34</td>    </tr>    <tr>      <th>21</th>      <td>2008</td>      <td>22</td>      <td>6</td>      <td>1220.89</td>      <td>215.30</td>    </tr>    <tr>      <th>22</th>      <td>2009</td>      <td>17</td>      <td>3</td>      <td>946.74</td>      <td>214.54</td>    </tr>    <tr>      <th>23</th>      <td>2010</td>      <td>16</td>      <td>4</td>      <td>1139.31</td>      <td>218.06</td>    </tr>    <tr>      <th>24</th>      <td>2011</td>      <td>23</td>      <td>2</td>      <td>1268.89</td>      <td>224.94</td>    </tr>    <tr>      <th>25</th>      <td>2012</td>      <td>25</td>      <td>0</td>      <td>1379.56</td>      <td>229.59</td>    </tr>    <tr>      <th>26</th>      <td>2013</td>      <td>28</td>      <td>2</td>      <td>1642.51</td>      <td>232.96</td>    </tr>    <tr>      <th>27</th>      <td>2014</td>      <td>20</td>      <td>3</td>      <td>1930.67</td>      <td>236.74</td>    </tr>    <tr>      <th>28</th>      <td>2015</td>      <td>29</td>      <td>4</td>      <td>2061.20</td>      <td>237.02</td>    </tr>    <tr>      <th>29</th>      <td>2016</td>      <td>27</td>      <td>6</td>      <td>2091.84</td>      <td>240.01</td>    </tr>    <tr>      <th>30</th>      <td>2017</td>      <td>24</td>      <td>4</td>      <td>2448.22</td>      <td>245.12</td>    </tr>  </tbody></table>
+    </div>
+</body>
+</html>

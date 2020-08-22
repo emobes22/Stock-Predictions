@@ -55,10 +55,9 @@
     </div>
   </nav>
   
-    <div class = "jumbotron">
+    <div class = "container jumbotron" style="background-color:#03285B">
         <div>
-            <h1 class="d-flex justify-content-center"></h1>
-            <h1 style="text-align:center">Ten Sectors vs S&P 500 Index</h1>
+            <h1 class="d-flex justify-content-center" style="color:#FFFFFF">TEN SECTORS vs S&P 500 INDEX</h1>
         </div>
     </div>
 
@@ -67,14 +66,49 @@
 
         <div class="row" style="text-align:center">
           <div class="col-md-12">
-            <img src="/images/Health care.png" width = 400>
-            <img src="/images/Information Technology.png" width = 400>
+            <img src="/images/Health care.png" width = 400 style="border:0px;margin:10px;">
+            <img src="/images/Information Technology.png" width = 400 style="border:0px;margin:10px;">
           </div>
           <div class="col-md-12">
-            <img src="/images/Financial Services.png" width = 400>
-            <img src="" width = 400>
+            <img src="/images/Financial Services.png" width = 400 style="border:0px;margin:10px;">
+            <img src="/images/Energy.png" width = 400 style="border:0px;margin:10px;">
           </div>
       </div>
+      </div>
+      </div>
+
+      <div class = "container jumbotron" style="background-color:#03285B">
+        <h3 class="d-flex justify-content-center" style="color:#FFFFFF">MULTIPLE LINEAR REGRESSION</h3>
+      </div>
+    
+      <div class = "container jumbotron">
+        <div class="row" style="text-align:center">
+          <p>Using sklearn and statsmodels libraries in Jupyter Notebook, we were able to run a multiple linear regression on the 2019 
+            ten sectors' (individual companies) closing stock prices vs the S&P 500 Index.The OLS (Ordinary Least Squares) Regression Results image below is 
+            the output provided from the statsmodels library. The R-squared value is 0.991 which is close to 1 meaning that the multiple linear regression model is a 
+            good fit with the our data.
+          </p>
+          <br>
+          <p>It is important to point out that the Telecommunication Services and Real Estate P-Values are greater than 0.05, meaning that there is no siginificant relationship between these 
+            two variables and S&P500 Index. </p>
+          <div class="col-md-12">
+            <img src="/images/multiple_reg_tensectors.png" width = 800 style="border:0px;margin:10px;">
+          </div>
+          <div class="col-md-12">
+            <img src="/images/2_formula.png" width = 800 style="border:0px;margin:50px;">
+          </div>
+
+          <div>
+            <div class="col-md-12" style="text-align:center">
+          <p>The final formula was used to make a prediction of S&P500 Index with the following values for each variable:
+          </p></div>
+        </div>
+
+          <div class="col-md-12" style="text-align:center">     
+              <img src="/images/predict_10sector.png" width = 800 style="border:0px;margin:0px;">
+            </div>
+
+          
       </div>
       </div>
 

@@ -38,5 +38,20 @@ def home():
 def data():
     return render_template("/data.html")
 
+# create route that renders charts.html template
+@app.route("/charts")
+def charts():
+    return render_template("/charts.html")
+
+# create route that renders charts.html template
+@app.route("/regressiondisasters")
+def regressiondisasters():
+    return render_template("/regressiondisasters.html")
+
+# create route that renders charts.html template
+@app.route("/regressionstocks")
+def regressionstocks():
+    return render_template("/regressionstocks.html")
+
 if __name__ == "__main__":
     app.run()

@@ -34,22 +34,22 @@ def home():
     return render_template("index.html")
 
 # create route that renders data.html template
-@app.route("/data")
+@app.route("/data.html")
 def data():
     return render_template("/data.html")
 
 # create route that renders charts.html template
-@app.route("/charts")
+@app.route("/charts.html")
 def charts():
     return render_template("/charts.html")
 
 # create route that renders charts.html template
-@app.route("/regressiondisasters")
+@app.route("/regressiondisasters.html")
 def regressiondisasters():
     return render_template("/regressiondisasters.html")
 
 # create route that renders charts.html template
-@app.route("/regressionstocks")
+@app.route("/regressionstocks.html")
 def regressionstocks():
     return render_template("/regressionstocks.html")
 

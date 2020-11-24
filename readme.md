@@ -4,7 +4,7 @@
 Our project analyzes the relationship between the S&P 500 Index and several factors. The factors we looked into were Disasters (Technological and Natural), CPI, and stock prices for industries within the stock market. 
 
 
-## Built With -- Im here...
+## Built With
 
 * [Python](https://www.python.org/) - The language used for coding
 * [HTML](https://html.com/) - The language used for building a website
